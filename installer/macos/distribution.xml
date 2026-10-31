@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-gui-script minSpecVersion="2">
+    <title>NuSynth</title>
+    <organization>com.aronh</organization>
+    <domains enable_anywhere="false" enable_currentUserHome="false" enable_localSystem="true"/>
+    <options customize="never" require-scripts="false" hostArchitectures="arm64,x86_64"/>
+    <choices-outline>
+        <line choice="vst3"/>
+    </choices-outline>
+    <choice id="vst3" title="NuSynth VST3" description="Installs NuSynth.vst3 to /Library/Audio/Plug-Ins/VST3">
+        <pkg-ref id="com.aronh.nusynth.vst3"/>
+    </choice>
+    <pkg-ref id="com.aronh.nusynth.vst3" auth="Root">NuSynth-vst3.pkg</pkg-ref>
+</installer-gui-script>
