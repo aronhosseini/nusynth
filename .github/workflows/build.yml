@@ -1,0 +1,168 @@
+name: Build NuSynth (VST3 + installers)
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to create GitHub Releases
+
+env:
+  BUILD_TYPE: Release
+
+jobs:
+  # --------------------------------------------------------------------------
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve version
+        id: ver
+        shell: bash
+        run: |
+          V="0.1.0"
+          if [[ "$GITHUB_REF" == refs/tags/v* ]]; then V="${GITHUB_REF_NAME#v}"; fi
+          if [[ ! "$V" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then V="0.1.0"; fi
+          echo "Version: $V"
+          echo "version=$V" >> "$GITHUB_OUTPUT"
+
+      # Loads whichever MSVC toolchain the runner has (VS 2022, VS 2026...), so we don't
+      # depend on a specific Visual Studio generator name.
+      - name: Set up MSVC (x64)
+        uses: ilammy/msvc-dev-cmd@v1
+        with:
+          arch: x64
+
+      - name: Ensure Ninja
+        shell: pwsh
+        run: |
+          if (-not (Get-Command ninja -ErrorAction SilentlyContinue)) { choco install ninja -y --no-progress }
+          ninja --version
+          cmake --version
+
+      - name: Configure
+        shell: pwsh
+        run: >
+          cmake -S . -B build -G Ninja
+          -DCMAKE_BUILD_TYPE=Release
+          -DCMAKE_C_COMPILER=cl -DCMAKE_CXX_COMPILER=cl
+          -DNUSYNTH_VERSION=${{ steps.ver.outputs.version }}
+
+      - name: Build VST3
+        run: cmake --build build --target NuSynth_VST3 --parallel
+
+      - name: Locate VST3 bundle
+        id: vst
+        shell: pwsh
+        run: |
+          $b = Get-ChildItem -Path build -Recurse -Directory -Filter "NuSynth.vst3" | Select-Object -First 1
+          if (-not $b) { throw "NuSynth.vst3 not found under build/" }
+          Write-Host "Found: $($b.FullName)"
+          "path=$($b.FullName)" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+
+      - name: Build installer (Inno Setup)
+        shell: pwsh
+        run: |
+          $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+          if (-not (Test-Path $iscc)) { choco install innosetup -y --no-progress }
+          & $iscc "/DAppVersion=${{ steps.ver.outputs.version }}" "/DVst3Dir=${{ steps.vst.outputs.path }}" "/O${{ github.workspace }}\dist" installer\windows\NuSynth.iss
+          if ($LASTEXITCODE -ne 0) { throw "Inno Setup failed" }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: NuSynth-Windows
+          path: dist/*.exe
+
+  # --------------------------------------------------------------------------
+  macos:
+    runs-on: macos-latest
+    env:
+      # Optional signing / notarization (leave secrets unset for an unsigned build)
+      APPLE_CERT_APP_P12:   ${{ secrets.APPLE_CERT_APP_P12 }}      # base64 .p12 "Developer ID Application"
+      APPLE_CERT_INST_P12:  ${{ secrets.APPLE_CERT_INST_P12 }}     # base64 .p12 "Developer ID Installer"
+      APPLE_CERT_PASSWORD:  ${{ secrets.APPLE_CERT_PASSWORD }}
+      APPLE_ID:             ${{ secrets.APPLE_ID }}
+      APPLE_TEAM_ID:        ${{ secrets.APPLE_TEAM_ID }}
+      APPLE_APP_PASSWORD:   ${{ secrets.APPLE_APP_PASSWORD }}      # app-specific password
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve version
+        id: ver
+        run: |
+          V="0.1.0"
+          if [[ "$GITHUB_REF" == refs/tags/v* ]]; then V="${GITHUB_REF_NAME#v}"; fi
+          if [[ ! "$V" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then V="0.1.0"; fi
+          echo "Version: $V"
+          echo "version=$V" >> "$GITHUB_OUTPUT"
+
+      - name: Configure (universal arm64 + x86_64)
+        run: cmake -B build -DCMAKE_BUILD_TYPE=Release -DNUSYNTH_VERSION=${{ steps.ver.outputs.version }}
+
+      - name: Build VST3
+        run: cmake --build build --config Release --target NuSynth_VST3 --parallel 4
+
+      - name: Import signing certificates (optional)
+        if: env.APPLE_CERT_APP_P12 != ''
+        run: |
+          KC="$RUNNER_TEMP/build.keychain-db"
+          security create-keychain -p "ci" "$KC"
+          security set-keychain-settings -lut 21600 "$KC"
+          security unlock-keychain -p "ci" "$KC"
+          echo "$APPLE_CERT_APP_P12"  | base64 --decode > "$RUNNER_TEMP/app.p12"
+          echo "$APPLE_CERT_INST_P12" | base64 --decode > "$RUNNER_TEMP/inst.p12"
+          security import "$RUNNER_TEMP/app.p12"  -k "$KC" -P "$APPLE_CERT_PASSWORD" -T /usr/bin/codesign
+          security import "$RUNNER_TEMP/inst.p12" -k "$KC" -P "$APPLE_CERT_PASSWORD" -T /usr/bin/productbuild
+          security set-key-partition-list -S apple-tool:,apple:,codesign: -s -k "ci" "$KC"
+          security list-keychains -d user -s "$KC" login.keychain
+
+      - name: Sign VST3
+        run: |
+          VST3="build/NuSynth_artefacts/Release/VST3/NuSynth.vst3"
+          if [[ -n "$APPLE_CERT_APP_P12" ]]; then
+            APP_ID=$(security find-identity -v -p codesigning | grep "Developer ID Application" | head -1 | sed -E 's/.*"(.*)".*/\1/')
+            codesign --force --deep --options runtime --timestamp -s "$APP_ID" "$VST3"
+          else
+            codesign --force --deep -s - "$VST3"     # ad-hoc (required to load on Apple Silicon)
+          fi
+
+      - name: Build .pkg installer
+        run: |
+          VST3="build/NuSynth_artefacts/Release/VST3/NuSynth.vst3"
+          INST_ID=""
+          if [[ -n "$APPLE_CERT_INST_P12" ]]; then
+            INST_ID=$(security find-identity -v | grep "Developer ID Installer" | head -1 | sed -E 's/.*"(.*)".*/\1/')
+          fi
+          bash installer/macos/build_pkg.sh "${{ steps.ver.outputs.version }}" "$VST3" "$INST_ID"
+
+      - name: Notarize + staple (optional)
+        if: env.APPLE_ID != ''
+        run: |
+          PKG="dist/NuSynth-${{ steps.ver.outputs.version }}-macOS.pkg"
+          xcrun notarytool submit "$PKG" --apple-id "$APPLE_ID" --team-id "$APPLE_TEAM_ID" \
+                --password "$APPLE_APP_PASSWORD" --wait
+          xcrun stapler staple "$PKG"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: NuSynth-macOS
+          path: dist/*.pkg
+
+  # --------------------------------------------------------------------------
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [windows, macos]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*
+          generate_release_notes: true
