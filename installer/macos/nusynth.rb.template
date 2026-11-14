@@ -1,0 +1,19 @@
+# Homebrew cask for NuSynth.   brew tap {{OWNER}}/nusynth && brew install --cask nusynth
+cask "nusynth" do
+  version "{{VERSION}}"
+  sha256 "{{SHA256}}"
+
+  url "https://github.com/{{REPO}}/releases/download/v#{version}/NuSynth-#{version}-macOS.zip"
+  name "NuSynth"
+  desc "Wavetable synthesizer (VST3) by Aron H"
+  homepage "https://github.com/{{REPO}}"
+
+  vst3_plugin "NuSynth.vst3"
+
+  # the plugin is ad-hoc signed; remove the quarantine flag so Gatekeeper does not block it
+  postflight do
+    system_command "/usr/bin/xattr",
+                   args: ["-dr", "com.apple.quarantine", "#{Dir.home}/Library/Audio/Plug-Ins/VST3/NuSynth.vst3"],
+                   must_succeed: false
+  end
+end
