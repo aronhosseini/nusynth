@@ -485,7 +485,7 @@ inline void swapFxOrder (APVTS& a, int fxIdx, int dir)
 }
 
 /** Grip on the left of every effect header: drag it up / down to re-order the chain. */
-struct FxGrip final : juce::Component
+struct FxGrip final : juce::Component, juce::SettableTooltipClient
 {
     std::function<void (int, float)> callback;          // phase (0 start, 1 drag, 2 end), y in the rack
     juce::Component* rack = nullptr;
