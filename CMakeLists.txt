@@ -1,5 +1,19 @@
 cmake_minimum_required(VERSION 3.22)
 
+# Prefer clang-cl on Windows when present. The project uses C++20 designated initializers
+# in several JUCE-heavy tables; MSVC in the GitHub Actions image rejects some of those
+# aggregate member designators. clang-cl accepts the same code without requiring a large
+# source rewrite.
+if (WIN32)
+    find_program(CLANG_CL_PATH NAMES clang-cl clang-cl.exe)
+    if (CLANG_CL_PATH)
+        set(CMAKE_C_COMPILER "${CLANG_CL_PATH}" CACHE STRING "C compiler" FORCE)
+        set(CMAKE_CXX_COMPILER "${CLANG_CL_PATH}" CACHE STRING "C++ compiler" FORCE)
+        set(CMAKE_RC_COMPILER "llvm-rc" CACHE STRING "Windows resource compiler" FORCE)
+        set(CMAKE_CXX_FLAGS_INIT "/std:c++20")
+    endif()
+endif()
+
 # Must be set before project() so macOS builds are universal (Apple Silicon + Intel)
 set(CMAKE_OSX_ARCHITECTURES "arm64;x86_64" CACHE STRING "" FORCE)
 set(CMAKE_OSX_DEPLOYMENT_TARGET "10.13" CACHE STRING "" FORCE)
