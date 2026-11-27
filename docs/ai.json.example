@@ -1,0 +1,11 @@
+{
+  "providers": [
+    { "name": "Ollama (local)", "endpoint": "http://127.0.0.1:11434/v1", "model": "llama3.1:8b" },
+    { "name": "Off Grid (local)", "endpoint": "http://127.0.0.1:7878/v1", "model": "your-model-name" },
+    { "name": "OpenRouter", "endpoint": "https://openrouter.ai/api/v1", "model": "meta-llama/llama-3.3-70b-instruct:free", "apiKey": "PUT-YOUR-OWN-KEY-HERE" }
+  ]
+}
+// Save as <user app data>/NuSynth/ai.json WITHOUT these comment lines (JSON has no comments).
+// Windows: %APPDATA%\NuSynth\ai.json   macOS: ~/Library/Application Support/NuSynth/ai.json   Linux: ~/.config/NuSynth/ai.json
+// Providers are tried top to bottom, then keys from OPENROUTER_API_KEY / GROQ_API_KEY / CEREBRAS_API_KEY / MISTRAL_API_KEY / GEMINI_API_KEY,
+// then the keyless Kilo free and Pollinations endpoints. Leave "apiKey" out for keyless / local servers.

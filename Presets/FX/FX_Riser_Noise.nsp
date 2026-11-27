@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NuSynthState userWave1="1024.cAv3KvxECHBNrHZMf3ylEg.SjE0sUUQVWtUWc4nWO80xeUBXBBl+fAaXnJl6iIXYccFcoM6ZF3FUvYnbCRGN1I4cEhGB4kQd5hm724rccUWrywcby+lBtICa7oF8nY5YXZ1yksTYMT1Ck4TYDWlZlgyYof1MookZOt1yrggai8VqvIebqLmUzoVckY2O2U+cAhW33MQdVjG63oIdkfGk2IucIYGo0AQcWR2Pz0AcrP2bzMOcnVmi1w4cGim.5AzdwwWh8kme27mt+0+e7+mt+syeG52o8kJeat2h5YXdbhm024ycaamq1gqcza2V2Q9cBhGJ4cbdQo2s5wtdkqWl5IfdbjW42ElcSRWfxUCb211DqMEZBVlphU8WKzUUZc6U1T00RoIT.5ThLQqR9ijYGcdQ9QzIC4cPeBjY+7hO1yCt6LmNjjyx2flM5SigyvfLSByGuXaKdwxGq7eJEjhMnb4Iqbx7l.uIdbRdmr+IchRUongJfqhmqjDKYyxQszXKn1xksrUK3yBcrX8JkrRapPaJFjRZnP9I8cRMm7vIHbBGmbzIAdhvmL.J4fhWnjFJTgxFnr6IybRglLaIBSxsijoHuExOf7vGm2Qxbn6F6pgyY.OFgfAWW3oEiWwIUPFEWNAuRHcDUCgwOTpCx0.LL.tBElPHHfqAKUf2CHm.HDvn+Oj+nyOk6aj9+i+u2en8VUuKz6v72Ge5vS96m697sSP6avdMqCk5qktfnS44eZtnk2I4PNdehWV3KANMeSh2ez8Jbuz1Ep81Y+T1iiskXaF1PgMTXCF15g8kXGK1.iMvXuJ1+gcNXu80kcc2Vaj0mVMBU+F0kOcbSiwzfK8xRyszRLsZSG9zuQ8CUia0hYs.WK40IfMXXOI1bhsdXyB1xdMDWej0dU8UTiyzGHMxP+2yv3r2Lu3x3nr4Ha4wEYL8DG5vKIL7.63uj3Kr7FytilqA3dksURaux1LrD6ZnrJlpHfZkklvnpAJucVvlNg4mUJvjBBoJNN.iWnnaH9vg9WHOEdLgbR3rDRPgAVnGFxrg6cnGHdJhJjXOIxShBjXjH19gbbHJF9QgNP3.C5ff6D3k.xBfA.HF.NGfMDH3AJtfHPHQEhngEeX6HRehQq3dK19hlvnILR+hSt3CKFmhDmXEI5FhZe3XGFwgoaH7FdxgPdHJH5NhcmX7JRBiv03yNtCjtFYHS1HkqWYMWJFlrk4RZZulnsYlaV3lmr4eZxXlSgo1VpRkQMIWQ90iq0nkKNehThHiGdtguZ35Fl4g0hXMJp.if3XXPVqjCTIMWNSluqoWbpWmG4oydJxmb8oleJ.n5Bp5gp6nOYJxo9iqBOaV5Bfvnp7MTyn26ktzzC"
+              userWave2="8192...vw.3X.UI.GCL9.oR.bEXiA7aPvGbHBLk.DJTsBYt.WL7QCh2vnNT1Cl.g4PTZDjIgHS.9DbRAVULgEMaggW7CF1iQqYHlFVrgxavGGszg2cvnG57w4eHIH7DR4gznHyLB1irGIcThukzkI5ahkmDCJJihXofeJLpxGq.6J+vByrfUKh2xZtDuK18R9unGL4CycwHeLrIy3xj0LLOiOzzJMaTyg0.eMWYSu1.xMAdC32vCNWhy63XTNZly54riNHpyz5vwNisyo6j9NnviY7.JOYyyC8LTO00Co8DcO62yH9jjOr4Si9rpOG6S39fuOM7yG+7xO77yQ+.0OV8iV+r0OZ8iU+.0OG8CO+7xOe7SC+fuOg6yw9rpOM5Ca9jjOi3y98DcOj1Sc8LTOOzS17.JOlwCJ7j9NmtyX6vwNSqCh5riNqmil4XTNuiyk3vCNfeSf2.xM8ZyU1.eMGVyF0zJM9PCyyj0LiKCaxHeL2ES9vnGL4+hcuDuKq4h3sfUKLyxOr.6JerBipfeJhkhxnDCJVdh9lzkI9VRGkrGIXOxLiznHkGBOgHIHm+gNevnGd2QKcvGGJugEaHlFslg8X7CFFdQyVLgEXUAmT.9DhLAYRTZDlCgIPT1Ci5f3M7QCbwPlKTsBPn.SIbHBAe.+FXiAvUPpDL9.bLPUB3X.GC...jy+x4+p8SN+cv+U6Co9JmOA4+C94cOs1Ce8qT+YzS57gKuGx2U7aBu1uqw6a4Nms6M6fvNYqip5sm9LoqG5AetBmOk4dVt5jaC4DN9zhKh3zEtwfmA3t8Mwdug2y0cybiB2Et83ZKj1ilsAYqF1OesMW6o0HXMcUGN0PQcvSSyznJsGRWYzODshPe.zF97AOmnyN3LkM2QymxLMLK7xSsb4JmmxPnbpIOTxfi7eHCBxDebZGGww5ZrYFWgwEWLdE2RwjSbmDmEwWPL1Cq4vfM7ICGuv8J7hBykvuHbAB2cv2FLkAOWvUEbNA+QvHD77.GNvQCLw.mKvvBrp.aJvkBro.qJvvBbt.SLvQCb3.OOvHD7GAmSvUE7bASYv2Fb2AWfvuHLWBunv8Jb7BexvfMrlCi8vWPbVD2IwjSbKEiWwEWbEFalw5ZbDGm1wDeLHH+Gxfi7PImZxPnbdJWtxSsrvKSCymxbGMSYyN3bhNevyF97APqHzODckQ6gznJMMSG7zPQc3TSW0HXsmVay0OesZXaP1ilsPZOt1EtMJb2L2y08FdSr2t8cFfaL3zEtHhOs3DNtMjqN4dV9Tlqv4AetdnOS5smNppS15fvt2ryY6a4tFuq86aBeWw6g7gKOoyeF8qTO70Sq84c+O3SP9JmOj5e09cvO47uZ+x4eN+C..GCfiATk.bLv3CjJAvUfMFvuAAevgHvTBPnP0Jj4BbwvGMHdCi5PYOXBDlCQoQPlDhLA3SvIEXUwDVzrEFdwOXXOFslgXZXwFJuAebzRGd2AidnyGm+gjfvSHkGRihLyHXOxdjzQI9VRWlnuIVdRLnnLJhkB9ovnJerBrq7CKLyBVsHdKq4R7tX2K4+hdvjOL2Ei7wvlLiKSVyv7L9PSqzrQMGVC70bkM8ZCH2D3MfeCO3bINuiiQ4nYNqmyN5fnNSqCG6L1NmtS56fBOlwCn7jMOOzyP8TWOj1Sz8reOi3SR9vlOM5yp9brOg6C99zvOe7yK+vyOG8CT+X0OZ8yV+n0OV8CT+bzO77yK+7wOM7C99DtOG6yp9znOr4SR9LhO62Sz8PZO00yP87POYyCn7XFOnvS56b5NisCG6LsNHpyN5rdNZliQ47NNWhCO3.9MAdCH2zqMWYC70bXMaTSqz3CMLOSVyLtLrIi7wbWL4Cidvj+K18R7trlKh2BVsvLK+vBrq7wJLpB9oHVJJiRLnX4I5aRWl3aIcTxdjf8HyLRihTdH7Dhjfb9G57Aid3cGszAebn7FVrgXZzZF1iwOXX3EMawDVfUEbRA3SHxDjIQoQXNDl.QYOLpCh2vGMvECYtP0J.gBLkvgHD7A7afMF.WAoRv3Cvw.UIfiAbL...PN+Km+q1O472A+WsOj5qb9Dj+O3m28zZO70uR8mQOoyGt7dHeWwuI7Z+tFuuk6b1t2rCB6jsNpp2d5yjtdnG74Jb9Tl6Y4pStMjS33SKtHhSW3FCdFf612D68FdOW2MyMJbW31iqsPZOZ1FjsZX+701bsmVif0zUc3TCE0AOMMSipzdHckQ+PzJB8APa3yG7bhN6fyT1bGMeJyzvrvKO0xkqbdJCgxol7PICNx+gLHHS7wocbDGqqwlYbEFWbw3UbKESNwcRbVDeAwXOrlCC1vmLb7B2qvKJLWB+hvEHb2AeavTF7bAWUv4D7GAiPvyCb3.GMvDCbt.CKvpBro.WJvlBrp.CKv4BLw.GMvgC77.iPveDbNAWUvyELkAeavcGbAB+hvbI7hB2qvwK7ICC1vZNL1CeAwYQbmDSNwsTLdEWbwUXrYFqqwQbbZGS7wff7eHCNxCkbpICgx4ob4JO0xBuLMLeJyczLkM6fyI57AOa3yG.shP+PzUFsGRipzzLcvSCE0gSMcUif0dZsMW+70pgsAYOZ1Bo83ZW31nvcybOW2a3Mwd612Y.twfSW3hH9zhS331Pt5j6Y4SYtBmG745g9Lo2d5npNYqCB6dyNmsuk6Z7t1uuI7cEuGxGt7jN+YzuR8vWOs1m28+fOA4qb9Pp+U62A+jy+p8Km+47O..bL.NFPUBvw.iOPpD.WA1X.+FD7AGh.SI.gBUqPlKvECezf3MLpCk8fIPXNDkFAYRHxDfOAmTfUESXQyVX3E+fg8XzZFhogEan7F7wQKc3cGL5gNeb9GRBBOgTdHMJxLif8H6QRGk3aIcYh9lX4IwfhxnHVJ3mBip7wJvtxOrvLKX0h3srlKw6hcuj+K5AS9vbWLxGCaxLtLYMCyy3CMsRyF0bXMvWyU1zqMfbSf2.9M7fyk37NNFkil4rdN6nCh5LsNbryX6b5NouCJ7XFOfxS177POC0Sc8PZOQ2y98LhOI4Ca9znOq5yw9DtO36SC+7wOu7CO+bzOP8iU+n0Oa8iV+X0OP8yQ+vyOu7yG+zvO36S39brOq5Si9vlOI4yH9reOQ2Co8TWOC0yC8jMOfxiY7fBOouyo6L1Nbryz5fnN6ny54nYNFky63bIN7fC32D3MfbSu1bkMvWyg0rQMsRiOzv7LYMy3xvlLxGycwjOL5AS9uX2Kw6xZtHdKX0Byr7CKvtxGqvnJ3mhXonLJwfhkmnuIcYhukzQI6QB1iLyHMJR4gvSHRBx4enyGL5g2czRG7wgxaXwFhoQqYXOF+fggWzrESXAVUvIEfOgHSPlDkFg4PXBDk8vnNHdCez.WLj4BUq.DJvTBGhPvGvuA1X.bEjJAiO.GCTk.NFvw....47ub9uZ+jyeG7e09Ppux4SP9+fed2Sq8vW+J0eF8jNe3x6g7cE+lvq86Z79VtyY6dyNHrS15npd6oOS55gdvmqv4SYtmkqN41PNgiOs3hHNcgaL3Y.taeSr2a38bc2L2nvcgaOt1Bo8nYaP1pg8yWay0dZMBVSW0gSMTTG7zzLMpR6gzUF8CQqHzG.sgOevyI5rCNSYycz7oLSCyBu7TKWtx4oLDJmZxCkL3H+GxffLwGm1wQbrtFalwUXbwEiWwsTL4D2IwYQ7EDi8vZNLXCexvwKbuBunvbI7KBWfvcG7sASYvyEbUAmSveDLBAOOvgCbz.SLv4BLr.qJvlBbo.aJvpBLr.mKvDCbz.GNvyCLBA+Qv4DbUAOWvTF7sA2cvEH7KBykvKJbuBGuvmLLXCq4vXO7EDmEwcRL4D2Rw3UbwEWgwlYrtFGwwocLwGCBx+gL3HOTxolLDJmmxkq7TKK7xzv7oL2QyT1rCNmnyG7rgOe.zJB8CQWYzdHMpRSyzAOMTTGN0zUMBV6o01b8yWqF1Fj8nYKj1iqcgaiB2My8bcug2D6saemA3FCNcgKh3SKNgiaC4pStmkOk4JbdvmqG5yjd6oip5jsNHr6M6b19Vtqw6Z+9lv2U7dHe3xS57mQ+J0Ce8zZed2+C9Djux4Co9WseG7SN+q1ub9my+..vw.3X.UI.GCL9.oR.bEXiA7aPvGbHBLk.DJTsBYt.WL7QCh2vnNT1Cl.g4PTZDjIgHS.9DbRAVULgEMaggW7CF1iQqYHlFVrgxavGGszg2cvnG57w4eHIH7DR4gznHyLB1irGIcThukzkI5ahkmDCJJihXofeJLpxGq.6J+vByrfUKh2xZtDuK18R9unGL4CycwHeLrIy3xj0LLOiOzzJMaTyg0.eMWYSu1.xMAdC32vCNWhy63XTNZly54riNHpyz5vwNisyo6j9NnviY7.JOYyyC8LTO00Co8DcO62yH9jjOr4Si9rpOG6S39fuOM7yG+7xO77yQ+.0OV8iV+r0OZ8iU+.0OG8CO+7xOe7SC+fuOg6yw9rpOM5Ca9jjOi3y98DcOj1Sc8LTOOzS17.JOlwCJ7j9NmtyX6vwNSqCh5riNqmil4XTNuiyk3vCNfeSf2.xM8ZyU1.eMGVyF0zJM9PCyyj0LiKCaxHeL2ES9vnGL4+hcuDuKq4h3sfUKLyxOr.6JerBipfeJhkhxnDCJVdh9lzkI9VRGkrGIXOxLiznHkGBOgHIHm+gNevnGd2QKcvGGJugEaHlFslg8X7CFFdQyVLgEXUAmT.9DhLAYRTZDlCgIPT1Ci5f3M7QCbwPlKTsBPn.SIbHBAe.+FXiAvUPpDL9.bLPUB3X.GC...jy+x4+p8SN+cv+U6Co9JmOA4+C94cOs1Ce8qT+YzS57gKuGx2U7aBu1uqw6a4Nms6M6fvNYqip5sm9LoqG5AetBmOk4dVt5jaC4DN9zhKh3zEtwfmA3t8Mwdug2y0cybiB2Et83ZKj1ilsAYqF1OesMW6o0HXMcUGN0PQcvSSyznJsGRWYzODshPe.zF97AOmnyN3LkM2QymxLMLK7xSsb4JmmxPnbpIOTxfi7eHCBxDebZGGww5ZrYFWgwEWLdE2RwjSbmDmEwWPL1Cq4vfM7ICGuv8J7hBykvuHbAB2cv2FLkAOWvUEbNA+QvHD77.GNvQCLw.mKvvBrp.aJvkBro.qJvvBbt.SLvQCb3.OOvHD7GAmSvUE7bASYv2Fb2AWfvuHLWBunv8Jb7BexvfMrlCi8vWPbVD2IwjSbKEiWwEWbEFalw5ZbDGm1wDeLHH+Gxfi7PImZxPnbdJWtxSsrvKSCymxbGMSYyN3bhNevyF97APqHzODckQ6gznJMMSG7zPQc3TSW0HXsmVay0OesZXaP1ilsPZOt1EtMJb2L2y08FdSr2t8cFfaL3zEtHhOs3DNtMjqN4dV9Tlqv4AetdnOS5smNppS15fvt2ryY6a4tFuq86aBeWw6g7gKOoyeF8qTO70Sq84c+O3SP9JmOj5e09cvO47uZ+x4eN+C..GCfiATk.bLv3CjJAvUfMFvuAAevgHvTBPnP0Jj4BbwvGMHdCi5PYOXBDlCQoQPlDhLA3SvIEXUwDVzrEFdwOXXOFslgXZXwFJuAebzRGd2AidnyGm+gjfvSHkGRihLyHXOxdjzQI9VRWlnuIVdRLnnLJhkB9ovnJerBrq7CKLyBVsHdKq4R7tX2K4+hdvjOL2Ei7wvlLiKSVyv7L9PSqzrQMGVC70bkM8ZCH2D3MfeCO3bINuiiQ4nYNqmyN5fnNSqCG6L1NmtS56fBOlwCn7jMOOzyP8TWOj1Sz8reOi3SR9vlOM5yp9brOg6C99zvOe7yK+vyOG8CT+X0OZ8yV+n0OV8CT+bzO77yK+7wOM7C99DtOG6yp9znOr4SR9LhO62Sz8PZO00yP87POYyCn7XFOnvS56b5NisCG6LsNHpyN5rdNZliQ47NNWhCO3.9MAdCH2zqMWYC70bXMaTSqz3CMLOSVyLtLrIi7wbWL4Cidvj+K18R7trlKh2BVsvLK+vBrq7wJLpB9oHVJJiRLnX4I5aRWl3aIcTxdjf8HyLRihTdH7Dhjfb9G57Aid3cGszAebn7FVrgXZzZF1iwOXX3EMawDVfUEbRA3SHxDjIQoQXNDl.QYOLpCh2vGMvECYtP0J.gBLkvgHD7A7afMF.WAoRv3Cvw.UIfiAbL...PN+Km+q1O472A+WsOj5qb9Dj+O3m28zZO70uR8mQOoyGt7dHeWwuI7Z+tFuuk6b1t2rCB6jsNpp2d5yjtdnG74Jb9Tl6Y4pStMjS33SKtHhSW3FCdFf612D68FdOW2MyMJbW31iqsPZOZ1FjsZX+701bsmVif0zUc3TCE0AOMMSipzdHckQ+PzJB8APa3yG7bhN6fyT1bGMeJyzvrvKO0xkqbdJCgxol7PICNx+gLHHS7wocbDGqqwlYbEFWbw3UbKESNwcRbVDeAwXOrlCC1vmLb7B2qvKJLWB+hvEHb2AeavTF7bAWUv4D7GAiPvyCb3.GMvDCbt.CKvpBro.WJvlBrp.CKv4BLw.GMvgC77.iPveDbNAWUvyELkAeavcGbAB+hvbI7hB2qvwK7ICC1vZNL1CeAwYQbmDSNwsTLdEWbwUXrYFqqwQbbZGS7wff7eHCNxCkbpICgx4ob4JO0xBuLMLeJyczLkM6fyI57AOa3yG.shP+PzUFsGRipzzLcvSCE0gSMcUif0dZsMW+70pgsAYOZ1Bo83ZW31nvcybOW2a3Mwd612Y.twfSW3hH9zhS331Pt5j6Y4SYtBmG745g9Lo2d5npNYqCB6dyNmsuk6Z7t1uuI7cEuGxGt7jN+YzuR8vWOs1m28+fOA4qb9Pp+U62A+jy+p8Km+47O..bL.NFPUBvw.iOPpD.WA1X.+FD7AGh.SI.gBUqPlKvECezf3MLpCk8fIPXNDkFAYRHxDfOAmTfUESXQyVX3E+fg8XzZFhogEan7F7wQKc3cGL5gNeb9GRBBOgTdHMJxLif8H6QRGk3aIcYh9lX4IwfhxnHVJ3mBip7wJvtxOrvLKX0h3srlKw6hcuj+K5AS9vbWLxGCaxLtLYMCyy3CMsRyF0bXMvWyU1zqMfbSf2.9M7fyk37NNFkil4rdN6nCh5LsNbryX6b5NouCJ7XFOfxS177POC0Sc8PZOQ2y98LhOI4Ca9znOq5yw9DtO36SC+7wOu7CO+bzOP8iU+n0Oa8iV+X0OP8yQ+vyOu7yG+zvO36S39brOq5Si9vlOI4yH9reOQ2Co8TWOC0yC8jMOfxiY7fBOouyo6L1Nbryz5fnN6ny54nYNFky63bIN7fC32D3MfbSu1bkMvWyg0rQMsRiOzv7LYMy3xvlLxGycwjOL5AS9uX2Kw6xZtHdKX0Byr7CKvtxGqvnJ3mhXonLJwfhkmnuIcYhukzQI6QB1iLyHMJR4gvSHRBx4enyGL5g2czRG7wgxaXwFhoQqYXOF+fggWzrESXAVUvIEfOgHSPlDkFg4PXBDk8vnNHdCez.WLj4BUq.DJvTBGhPvGvuA1X.bEjJAiO.GCTk.NFvw....47ub9uZ+jyeG7e09Ppux4SP9+fed2Sq8vW+J0eF8jNe3x6g7cE+lvq86Z79VtyY6dyNHrS15npd6oOS55gdvmqv4SYtmkqN41PNgiOs3hHNcgaL3Y.taeSr2a38bc2L2nvcgaOt1Bo8nYaP1pg8yWay0dZMBVSW0gSMTTG7zzLMpR6gzUF8CQqHzG.sgOevyI5rCNSYycz7oLSCyBu7TKWtx4oLDJmZxCkL3H+GxffLwGm1wQbrtFalwUXbwEiWwsTL4D2IwYQ7EDi8vZNLXCexvwKbuBunvbI7KBWfvcG7sASYvyEbUAmSveDLBAOOvgCbz.SLv4BLr.qJvlBbo.aJvpBLr.mKvDCbz.GNvyCLBA+Qv4DbUAOWvTF7sA2cvEH7KBykvKJbuBGuvmLLXCq4vXO7EDmEwcRL4D2Rw3UbwEWgwlYrtFGwwocLwGCBx+gL3HOTxolLDJmmxkq7TKK7xzv7oL2QyT1rCNmnyG7rgOe.zJB8CQWYzdHMpRSyzAOMTTGN0zUMBV6o01b8yWqF1Fj8nYKj1iqcgaiB2My8bcug2D6saemA3FCNcgKh3SKNgiaC4pStmkOk4JbdvmqG5yjd6oip5jsNHr6M6b19Vtqw6Z+9lv2U7dHe3xS57mQ+J0Ce8zZed2+C9Djux4Co9WseG7SN+q1ub9my+..vw.3X.UI.GCL9.oR.bEXiA7aPvGbHBLk.DJTsBYt.WL7QCh2vnNT1Cl.g4PTZDjIgHS.9DbRAVULgEMaggW7CF1iQqYHlFVrgxavGGszg2cvnG57w4eHIH7DR4gznHyLB1irGIcThukzkI5ahkmDCJJihXofeJLpxGq.6J+vByrfUKh2xZtDuK18R9unGL4CycwHeLrIy3xj0LLOiOzzJMaTyg0.eMWYSu1.xMAdC32vCNWhy63XTNZly54riNHpyz5vwNisyo6j9NnviY7.JOYyyC8LTO00Co8DcO62yH9jjOr4Si9rpOG6S39fuOM7yG+7xO77yQ+.0OV8iV+r0OZ8iU+.0OG8CO+7xOe7SC+fuOg6yw9rpOM5Ca9jjOi3y98DcOj1Sc8LTOOzS17.JOlwCJ7j9NmtyX6vwNSqCh5riNqmil4XTNuiyk3vCNfeSf2.xM8ZyU1.eMGVyF0zJM9PCyyj0LiKCaxHeL2ES9vnGL4+hcuDuKq4h3sfUKLyxOr.6JerBipfeJhkhxnDCJVdh9lzkI9VRGkrGIXOxLiznHkGBOgHIHm+gNevnGd2QKcvGGJugEaHlFslg8X7CFFdQyVLgEXUAmT.9DhLAYRTZDlCgIPT1Ci5f3M7QCbwPlKTsBPn.SIbHBAe.+FXiAvUPpDL9.bLPUB3X.GC...jy+x4+p8SN+cv+U6Co9JmOA4+C94cOs1Ce8qT+YzS57gKuGx2U7aBu1uqw6a4Nms6M6fvNYqip5sm9LoqG5AetBmOk4dVt5jaC4DN9zhKh3zEtwfmA3t8Mwdug2y0cybiB2Et83ZKj1ilsAYqF1OesMW6o0HXMcUGN0PQcvSSyznJsGRWYzODshPe.zF97AOmnyN3LkM2QymxLMLK7xSsb4JmmxPnbpIOTxfi7eHCBxDebZGGww5ZrYFWgwEWLdE2RwjSbmDmEwWPL1Cq4vfM7ICGuv8J7hBykvuHbAB2cv2FLkAOWvUEbNA+QvHD77.GNvQCLw.mKvvBrp.aJvkBro.qJvvBbt.SLvQCb3.OOvHD7GAmSvUE7bASYv2Fb2AWfvuHLWBunv8Jb7BexvfMrlCi8vWPbVD2IwjSbKEiWwEWbEFalw5ZbDGm1wDeLHH+Gxfi7PImZxPnbdJWtxSsrvKSCymxbGMSYyN3bhNevyF97APqHzODckQ6gznJMMSG7zPQc3TSW0HXsmVay0OesZXaP1ilsPZOt1EtMJb2L2y08FdSr2t8cFfaL3zEtHhOs3DNtMjqN4dV9Tlqv4AetdnOS5smNppS15fvt2ryY6a4tFuq86aBeWw6g7gKOoyeF8qTO70Sq84c+O3SP9JmOj5e09cvO47uZ+x4eN+C..GCfiATk.bLv3CjJAvUfMFvuAAevgHvTBPnP0Jj4BbwvGMHdCi5PYOXBDlCQoQPlDhLA3SvIEXUwDVzrEFdwOXXOFslgXZXwFJuAebzRGd2AidnyGm+gjfvSHkGRihLyHXOxdjzQI9VRWlnuIVdRLnnLJhkB9ovnJerBrq7CKLyBVsHdKq4R7tX2K4+hdvjOL2Ei7wvlLiKSVyv7L9PSqzrQMGVC70bkM8ZCH2D3MfeCO3bINuiiQ4nYNqmyN5fnNSqCG6L1NmtS56fBOlwCn7jMOOzyP8TWOj1Sz8reOi3SR9vlOM5yp9brOg6C99zvOe7yK+vyOG8CT+X0OZ8yV+n0OV8CT+bzO77yK+7wOM7C99DtOG6yp9znOr4SR9LhO62Sz8PZO00yP87POYyCn7XFOnvS56b5NisCG6LsNHpyN5rdNZliQ47NNWhCO3.9MAdCH2zqMWYC70bXMaTSqz3CMLOSVyLtLrIi7wbWL4Cidvj+K18R7trlKh2BVsvLK+vBrq7wJLpB9oHVJJiRLnX4I5aRWl3aIcTxdjf8HyLRihTdH7Dhjfb9G57Aid3cGszAebn7FVrgXZzZF1iwOXX3EMawDVfUEbRA3SHxDjIQoQXNDl.QYOLpCh2vGMvECYtP0J.gBLkvgHD7A7afMF.WAoRv3Cvw.UIfiAbL...PN+Km+q1O472A+WsOj5qb9Dj+O3m28zZO70uR8mQOoyGt7dHeWwuI7Z+tFuuk6b1t2rCB6jsNpp2d5yjtdnG74Jb9Tl6Y4pStMjS33SKtHhSW3FCdFf612D68FdOW2MyMJbW31iqsPZOZ1FjsZX+701bsmVif0zUc3TCE0AOMMSipzdHckQ+PzJB8APa3yG7bhN6fyT1bGMeJyzvrvKO0xkqbdJCgxol7PICNx+gLHHS7wocbDGqqwlYbEFWbw3UbKESNwcRbVDeAwXOrlCC1vmLb7B2qvKJLWB+hvEHb2AeavTF7bAWUv4D7GAiPvyCb3.GMvDCbt.CKvpBro.WJvlBrp.CKv4BLw.GMvgC77.iPveDbNAWUvyELkAeavcGbAB+hvbI7hB2qvwK7ICC1vZNL1CeAwYQbmDSNwsTLdEWbwUXrYFqqwQbbZGS7wff7eHCNxCkbpICgx4ob4JO0xBuLMLeJyczLkM6fyI57AOa3yG.shP+PzUFsGRipzzLcvSCE0gSMcUif0dZsMW+70pgsAYOZ1Bo83ZW31nvcybOW2a3Mwd612Y.twfSW3hH9zhS331Pt5j6Y4SYtBmG745g9Lo2d5npNYqCB6dyNmsuk6Z7t1uuI7cEuGxGt7jN+YzuR8vWOs1m28+fOA4qb9Pp+U62A+jy+p8Km+47O"
+              userWave3="8192.HgKu1FBs4Iamz5LsaSK0zlMsaS6yzVLsvbaM25ysFcKR2Rzs7b6L2tYtglKq4Jatzlar4lZtelKB75.uXv6G7FBudvqE7x.u046d9VnuK5ai9pnuB5Kd9FNvmCb7.iOv5C78.+NvkCrSCS0vdMbYCa1viMLWCK0v5VLvEubwQW7zECcwHWruEeBxsf7MH6Cx+fbOHWCxqfLkJqoxjprpJypxopbnJeox.zrAMCQyWzbFMaQyNzLAM21yy8beOS3yE9rfOu2yw8b1Q+czpGM7QKezuG84Q2czFQMSTaE0cQsWTyE0TQsRTOq04Z8vVmr0KaMxVCr01Z8GYWR1ujsMYiS10jcKYOR1Ltsjay41itMoaG51ZtMjaie292cBd+f2Q3sCdaf272cYfuF30ANef2G36A9bfmF3RKN1hKt3nKt5het3eKd0h6S4DUtSkWU4WUNUkyT4BU9pmG646dtvmO74.eNtm+54WndGpih5tnNLp2h5kn9FpSH6JxNkruI6bxtlrKI6HxN7teu6A79Aumv6F7t+tSu6cE+Xw2V7zEucwOW7qEeXwq77POu1yG97hO+2ye87NOuM1yi8FYeS1+j8LYOQ1qi8ihep3OK95h+t3mK9wh+o3+v9VrOH6ax9nreI62w9SrOe8KX+L1+j8WY+R1uh8CX+o++6+m++..P..3++1+O6+Wk.aIPYBvl.tIvZBLl.YIfvDfLARSP1DnMAXS.zDXLAtbPMG7yAEcvQGPzA7bfLGrYBglvpIHaBzlPrIjZBel.BL3.CXvvGL.BCcvPELr.Cz4fdNPnCK5PiNnnCB5.dNDNDmCQ7PfOD4Cw8P7NDkCQSSP0DdMAYSX1DiMwVSD0D5VAvUnbEQWwzU.cEHWguUbBFsfwMX3CF+fAOXPCFpfwjZjoFipgpZvpFopQnZboF.zgAc.QGWzAFcXQGNzAAcv1Gy8QeeL3GE9gfen2Gv8Q1g7cHoGB7gHeHuGx4gzcHFQBSjXEIcQhWjrEISQRRjHqI3ZhvljrIKaBxl.rI1ZxGoTRJujhMobSJ0jRKoLRJKtRjqv4JhtBoqD5JYtxiqfeK92BBt7fKQ3hCtXfK72RYvrFL0AydvzGL5AibvfFLQKy0xDtLnKi5xbtLeKS0x3SMDUiS0TUMVUCU0vTMBUip2.6M6dSv2L7M.eCt235MWnSG5bhNtnCL5zhNknyF5PHOJxCk7nIObxSl7DIOGxC79XuO.7yA+jvOF7i+9PuOcEzXA0VPzETcAMWPqETXAk7POOj1CA9PhOz2Cc8PMOjMFwiQFYTSF4jQLYDQFoiQihTpHMKR4hDuHgKRvhzoHAwRTrDHKkxRjrjHKkxROrzTMQdSl+TcR83ssWaF19GsEQKdzxGsrQqbz5GsFRKizd0sJcKP25ys.c6O2pystbaI2Net9maB51ftLn6B59ftZnaI5NOupyq27hMuXyq17dMuNyqv7p3uQ9am+V5ul9ao+Z5us9at+B7uIJbeBSmvwIrbBKmvrIbXBikvlTbLEuSw.U7OE6SwBUbSEeUwlfbGHGAxKf7BHy.xJfL.HW+w8pLwJCsxXqb1JesxYqL3Jytxyq7tMCaym1LoMWZyk17mMSYyK1bVPSFztAsbPKGzwAccPCHzJBcVS+zzDMsOS6yz+LcOSOyznLM7Uee0CX8BVyf0JX8BVOg0eXsIV6N1iic1XeM1XiM1XKM1GisuXy31VtcnaW51jtMoai51ytcuaun2B58cdGm2w4sbdCm2l48VdOR3pDtMg6S3+DdOg6S3FEtTgmU3gPdEj2.4JPtBju.4SP9GjaB4tat3lms4VaN1lis4Ratwl2q4KltkoGZ5klNooOZ5mltro2a5KxtfraG6vwNbrKG6uwtYrqE6i7tJuWy687tOu2y697tQuG06X8dHxWg7LHeBxuf7KHeAxme7vGuuzmL8TSO1zeM8VSu1zWN8vSuu2W68od+n2O58kdun2m48MdeU5yk9noOb5Gm9voeb5mm9Dp+h5SU+H0+O8yS+9zuO8eS+rz+H8G++7+uA.r..J.PB.z..X.fH.Du.nK.2BXs.VKv0BTs.LK.vBfXAOVvlELZAjVfnEPZAqVvsE3aAGhvdHHGBug.bH.GBpgvWHXEBjrvKKjyB9rPOKvyB.svRKT0Bj3fFN7fCI3PBNnfCH3f+MLeC6BgvP3LDVCw0PTMDWCg2PnNDwCQtS35DjNgnSL5DiNQmSH4DINwUVHlErYAbV.mEuYwbV3mEHZgUYzTFBkAOYvSF8jwNYDSFljg6aT+FAvABbn.GJvwAb3+FxuwtdHrGN6Q0dXsGU6g0d3sGp6Q7djaHsFBogDZHiFxngzYHQFBhgXEIgQBaj.GIuQhajLGI8QBhjX0IMcRPmryI6bROmnyIwbRIm3dJ0mB.pffJInBBpjfJQnRGpLhJryB3rbMKTyh0rXMKPyBwrrKKI9Bku74Ki9hnuD5Kk9Brur6KIJCfxPmLtIiax.mLsICYxfkLfTyI0LSM6TCO0rSM7TCQ07TMVUyG3LANJfyA3j.NIfy.3b+MteCu5brNQqi05TsNTqC15LtNsqCu8LaOm1Sn8DZOi1Cn8bYOK1yT.oEPlAja.8FPsAza.YGPBBTh.I0PFMTOCoyP6LzNCUyPpLTHC8dQ5WDAFkfQHXzAFsfQVXDHF8NRlij1HQMRUiT0HIMRJizuHQ3RMtDmK04RdtDqK44R+sDFL4gSxMkl4hAtQV69yd6rgO63yd8rjOq8yt+rEcqN25xspbKK2xxspbKK2VysCc6R2ZotHpae5tmt6oKe5xmt4o6a5Fltq1Ks8JbuK2Ky8tbuK2Ky8lbu91ar8tOvDDrDAuQvbD7FAuQvbDbFA6PvAD7RDSEwhQ7ZDyFwqQ7ZDyFwoQrWDCEwad7nGK6w5dLuGu6w6drtG+6wKeL1GqxxerbDKuvxJr7BKuvxJr7CKuwxnrrdN+lyg4rVNqkya47VNqkye47ZNimyJG8uQGazqFspQuZzqF8pQSZzWFMiQ2M0pSs8TuO06Ss9TuO06SM8TaN0bScKXqC1Fg8RXuD1Jg8RXuD1DgsMXuB18sshaa41at8laq41at8laS41Ft8da2r2Z6s4dut2q6s5dmt2q6M8dKv2J7cUhej37HdNhqi36HdNhui3DItThqk3kV9kkyX4IVthkqX4IV9hkSY4hVtpkWO5miN2nmM5Zit1nuM5Xidyn+K5JvtDrCB6ov9JrmB6pv9JriB6cv9Crq06h8Nbum2668dduq2668Ndu216e8tpxKq7.Kexxqr7IKexxur7GKeux+p74Wu.1Cg8YXuF1qg8YXeF12g8pX+M1iX98kOb4mV9okuZ4mV9nkea4qW9GlO172L+.yet7mK+5xet7iK+8xux7aM+n.PG..A.I..B.j..J.PB.L..0+u5+yy.IMPUCn0.YM.VCn0.YMfTCTz.5L.iFfoAkZfpFjpAnZPpFjpAhZPkFnnAbm.5ITeB4mP9IjeB3mf9IHfBPnPFJLVCV0vRMfTCI0PRMfTCI0fTM.VCo0vrPTJDaBAlPjIDYBAlPjIDhBArPfKDCPQ8Sn9DmOQ5Sj9DnOQ5SH+D.PABTL0EEcgNWfyE3bQNWjyE1bAKW3wEnoQbZ7mFHpQhZfnFHpQhZXnF6ogaZfaG.2wycfcGY2A1cfcGY2g0crbG81ABg.QHeDxIgjRHnDxIgbRHrDBNgTTHWRBij3GI3QxcjfGI3QxcjvGIHRRkjb9Ibehymb7IGeBxmf7IGeBymf8IkexMqvxJdrxEqbwJXrxEqbwJbrBJqTyJG5Bet3lKm4xYtflKn4BZtDlKS4BRtnYLmFyrwfaL3FyswfaL3FSrwLZLXFi5zbOMCTCB0fPMGTCB0fPMATy7zfNM5fyQ3LENXgCV3bENVgCV3DFNugyc3H7NztSp6X5Nmtyo6X5NntSr676NGuiD+PvO46i89buO26i89fuOA7yC+bwOhIDUBkjPFIzQBcjPHITQBoiPrHzcE8WQMVjkEgYQVVzkEgYQUVjhEwWQGizyH0MRliz4HcNRliz4HUNRZijxHcAShvjJLMCSCwzLL4.SWxjgNIPTci6U2lLsuLq5xRwrcLqGyJyrEcKM2NxscbKG2xwscbKG2xwsdbqF21vs7a6.61vtdraJ6txtorqJ6pxtorqJ6pxthraD6RvtS76H+Jyu376M+Zyu276M+Zyu17KO+tzua8qZC20vLMLQCOzvDMLQCSzvDM7PCWzvPMbXCu1vxcbXGS0wPcbTGK0wQcbTGK0wQcbRGmywqb7NKqzxYs7WK+0xdsrWK60xds7WKy0xOsrOKSzyO8LXOu1ys87ZOu1yr8LaOq1yr87cOi3yS9blSi3z6MMdSm2z4McdSm2z3MMdS62zMNcmSy50ddsiWa30EdsgWa30EdsgWe30CdscWW10rsscae31RtMkaO41St8jaO41Tt8jau315scaa222L98leG52g9MneC52g9Mne+42k9MseS72SOtwiW63sNdqi653sNdqi653rNtqim63JOd0iu84Jedumm645d9tmq645d9tmu64ydtnmW44jtNsqO75IuNxqi75HuNxqi75Iudwqi65mttqui66I+N0ua86U+d0uW86U+N0ua86g+t7uy+6CPu7yW97gOu3yK97hOu3yK97gO+4ya+7FPeE3i.92e+62698ve+62+98ueO72298fe+y2W89fue76y+98uO+6y+97uO+62+98uO86S99Vuu4+W++E.vB.n..I.fB.n..I.PB.7..d.PK.zCAuPvGDXAAVPvEDbAAWPvEDXAAXPfHDPCA9PPQHPCBmfvHHPBBjf.IHPBBkf.IHvABKff+Gz.Ccv.KLHCCwvPLLDCCwvPLLHCCuvPHL.ACW.gHPLCD8.wOP3CD9.wOP7CD8.wOPnDDaAQYPvFEaQgSTnDEKQASTrDELQwRTrDEPQAXT7FE+gQbXDFFXgAVXjEFYgAVXjEFZggUXjDF3fwObjDGZwQYbbFGlwgYbXFGlwgYbXFGdwQSb.DGOAxWf3FHzAxbfLGHyAxbfLGHxABdfbHHWBhojjIIHRBfj.HI.RBfj.HI.RxejDHILRRmjbJIthRmn.IJLhRin3HJMhRin3HJNhRgnTGJmgxcrXHKVxxlrrIKZxxlrnIKaxBmrfIKKxhdrDHLKBCmvbJLoBCpvbJLnBCpvbJLoByrvTLLOCi0zTLM2RCszTKM0RSszTKM0RCsznKMISS1zfNNaiix3HLNAiiv3HLNBiiv3LLN+hir3DJNnxir7PLONyCz77LOOyyy77LOPyCz7bLO2xSp7jKPHCz0.0MPcCD2.wMPcCD2.wMPgCT7.APPPTj.EIOQoST5DoNQpSj5DoNQoSj5DUOQGTTDEcQRGjj9HUOR1iD9HcOR1iD9HgORsiz2HQMRcyT6LsPSAzz1LUVSZ8T2Q45shX6gyldrwFq7wJfrjbqD2Zvs8aq+1Fvs+aq+19us.b6+19us.b6+1Vusfaqy1h.ucvKL7hCu2vqM7dCu2v6M7ZCu2v6M7ZCu1vaO7FEukw6mA6Xv4EraA2VvuEraA6VvtEraA6VvtEraACWvqErVASTvyYbfFeowkZ7oFapwlZroFapwlZroFapwlZboFepw0Z7xFiswGvr7KG9xbub2K68xcub2K28xdub2K28xdur2KO8x9tbqKeNz6C8CQaQzVDcEQWQzUDcEQWQzUDcEQSQzTD8FQ+RzCEceVyl0WYMSVyj0MYcSVyj0LYcSV2j0LYcSV6j0IYMNVOh0Rs8WaW21CtcgaS31DtMgaS31DtMgaS31DtsgaG31vssVamH3WBdqfuK38BNufuK37BNufyK37BNufyK35BdufuL3gCt6f2g4HX98kKe4yWN8kOe4yW97kOe4yW97kSe4zWd5kSc4BWd+pGw5jrNKqux5pr9Jqux5qr9Jqux5qrtJqqx5wrdQqm05SBufv2F7hAeXvOF7iAuXvKF7iAuXvKF7iAOYv+E7NAONviV80U+h0mY8aVul0qY8ZVul0qY8ZVul0qY8YV+l0mZ8+VOy0yu9lqe05Cs9Qquz5Gs9Qquz5Ks9Qqez5Os9Rq+w5Kq9gp+1++9+C.fB.n..I.PB.j..I.PB.j..J.PB.f..P.vH.bC.xU.XErTA.U.PEDTAAU.PEDTAAUPPE.TAAUfPEzSArTvEEXjBSoPZJbmB5o.dJfmB3o.dJfmB3oPdJfmB2oPdJbnBcpvpJn8CD+vrO35Cv9.rO.6Cv9.rO.6Cv9vqOD6Cv9foO.4C+8PtT3LEgSQ5TfNEmSw4TfNEmSw4TbNEnSw4TXNEtSQ.UTQEPowOZjhFengGZ7gFenwGZ7gFenwGZ7gFenAHZvgFKnQ8YPxGw7AReT0GX8gUeX0GW8wUeb0GW8gUeb0GX8wTeHzGr7AWjjFI+QRij7HINRhij3HINRhij3HINRhijzHIORRmjLKIASB7oncJImBwoXbJFmhwoXbJFmhwoTbJEmxwoXbJ6lhooTYJO6x3tbuK96h+tzuK86R+tzuK86R+t3uK86B+tPvKW7xJuXFMTQyOzTCMzPSMzTCM0PSMzTCM0PCMzTCM1PiLzDBMKPiN4bTNckyZ43VNrkCa4zVNskCa4vVNskSa4rVNtkyd4HYNeliy9fqOm5yn9PpOj5Co9PpOj5Co9PpOj5So9PpOZ5Cg9LmOsNjvCU8PcOD2Cs8PaOD2Cw8PaOD2Cw8PaOj1CI9P0OTBDQTRyjTGIMQRRjzDIMQRSjzDIMQRTjzDIIQRUjzDIwORliDINIhSR3TqNwJT3LEW0t+rxh651NnshZKo1dosaZ6m1xosaZqm11osbZam11osbZam11osbZKm19osXZKf1Flss1Kv89cuy2q88Reuz2K88Reuz2K88Reuz2K88Reuz2K88Reu02K88Jeu12aB9hhu636gEiVwQUrREyTwMULSEyTwLULSEyTwLULSEyTwLULSEyTwLU7RE2TwLUbOE+QwGT7XL+GyaxboLSJyixLoLSJyjxLoLSJyjxLoLSJyjxLoLOJyjxLoLOJyhxbqLiLykyLPTiB0JP89Sq+z7OM+Su+z6OM+Su+z6OM+Sy+z6O89Sy+z7O89Sy+z8O88S+8z.OMCa+w19rsTaW01Ss8TaO01Ss8TaO01Ss8TaO01Ss8TaO01SsMUaS01QscUai11Htslaat3HKNrhmp3qJNqhup3qJ9phup3qJ9phup3qJ9phup3qJ9phup3oJdqhCr3eKt7h6i5en9ApGf5Cn9.pOf5Cn9.pOf5Cn9.pOf5Cn9.pOf5Cn9.pKf5Dn9.pSe5VmtuoqQ71DuTwyU7aEuVwuU7aEuVwqU7aE+VwuU7ZE+VwuU7ZE+VwuU7ZEeVwSV7+E+lweO9eiev3KK9wh+r3OK9xhur3KK9xhur3KK9xhur3KK9xhur3KK9yhOs36J9Vh+c3O7+V+e8+m..L.fB.n..J.fB.n..J.fB.n..J.fB.n..J.fB.r..J..B.v..e.fO.DE.cdfeGb1AfcfXGH1AhcfXGH1AhcfXGH1AhcfXGH1AhcfXGH1AgcvXGH1AScPMGzwA44PkNDqC65ftNjqC55ftNnqC55ftNnqC55ftNnqC55PtNnqC55PtNfqCC6f2NnuCVYgOV.hEQXADVHgERXQDVDgERXQDVDgEQXQDVDgEQXgDVHgEQXgDVLgEMXQ8UXcEhzQMcPUGn0wZcjVGo0QZcjVGo0QZcjVGo0QZcjVGo0QZcjVGo0QZcrVGk0QSc3RG5QRijvJI+RxvjDLIASRvjDLIASRvjDLIASRvjDLIASRvjDLIASRvj7KIBSh0jTOIHTBUrTCKcvxErjAKYvRFrjAKYvRFrjAKYvRFrjAKYvRFrjAKXvBFrnAKYvhBrv9JTuBLyvzLmMibyD2LvMCbyD2LvMCbyD2LwMCby.2LwMSby.2LvMSby.2LuMSdyT4LwNSC6TuNWqCx5brNIqCx5frNHqCx5frNHqCx5frNHqCx5frNHqCx5frNJqCw5vpNMpS1AwdPKHjGBIhPfHDHBAhPfHDHBAhPfHDHBAhPfHDHBAhPfHDHBAhPdHjHBUiPTIzYBMaRTlTeIYWR2kDdIgWR2kDdIgWR3kzcIkWR3kjcIgWR6kDcIQWRElTcI8SRwlToK4ZU8tqQ5N8sIY6A1BisyXqI1phstXqJ1phsrX6J1phsqX6J1phsqX6J1thsqX6J1phsqX6J1phsqXqK1Nhs6W6w0NfviH7UBimv8IrdBqmv6IrdBqmv5IrdBqmv5IrdBqmv5IrdBqmv5IrdBqmv5IrdBqmv5IrdBqmv5IrdBqmv5IrdBqmv5I7dBmmv3IbhBeqvmKbOOSwyh6bxNeryK6rxNmryJ6rxNqryJ6rxNqryJ6rxNqryJ6rxNqryJ6rxNqryJ6rxNqryJ6rxNqryJ6rxNqryJ6rxNmryI6LyNuryw57eNakyspM2Zqv1brsFaiw1YrsFamw1YrcFamw1YrcFamw1YrcFamw1YrcFamw1YrcFamw1YrcFamw1YrcFamw1YrcFamw1YrsFaqw1VrMGa2y1wsMjay74XdNbmW14nctZmi14ncdZmm14ocdZmm14ocdZmm14ocdZmm14ocdZmm14ocdZmm14ocdZmm14ocdZmm14ncdZmm14ncdZmy14gcdNmWv4AMeXyW471N+tyi673Netyi673NOtyi673NOtyi673NOtyi673NOtyi673NOtyi673NOtyi673NOtyi673NOtyi673NOtym672Nusye770OeIzuG.RA.H.b..E.PB.f..G..B.f..H..B.f..H..B.f..H..B.f..H..B.f..H..B.f..H..B.f..H..B.f..G..B.f..G.vA.n..I.v6+26+T9+5KnACHwfVLfECVwvULfECWwvULbECWwvULbECWwvULbECWwvULbECWwvULbECWwvULbECWwvULbECWwvULbECWwvULfECXw.ULnEC6wvqL3LCJjg0X3JFihgoXfJFlhgoXbJFmhwoXbJFmhwoXbJFmhwoXbJFmhwoXbJFmhwoXbJFmhwoXbJFmhwoXbJFmhgoXbJFmhgoXbJFphwmXbGFCgwej7IISSB8jjOI1Sh8jbOI1Sh8jXOI1Sh8jXOI1Sh8jXOI1Sh8jXOI1Sh8jXOI1Sh8jXOI1Sh8jXOI1Sh8jXOI1Sh8jXOI2SR8jLOIETxLkLVI4FCjw3ULEEyPwbTLFESQwXTLFEiQwXTLFEiQwXTLFEiQwXTLFEiQwXTLFEiQwXTLFEiQwXTLFEiQwXTLFESQwXTLFESQwTTLHEyQwzRL6CizvjROX0ig8fYOV1Ck8TYOV1Sk8TYOU1Sk8TYOU1Sk8TYOU1Sk8TYOU1Sk8TYOU1Sk8TYOU1Sk8TYOU1Sk8TYOU1Sk8TYOT1Sk8fYOM1SY8HSOtkTiIEbRhmD5IQdRjmT4IUdRkmT4IUdRkmT4IUdRjmT4IUdRjmT4IUdRimT4IgdRhmT3IAeRgmTuIIjRhvzhNwEupqKe3Zus0Za21BtsSa601tssWa601lssXa601hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaK11hssXaa11hssWaa11lssUaa11JtsAaqR1FasKnMZZOv1ksccau11pscaay11qsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaay11rsMaau11sscaam11ssscaW01dqcQZ+o+76+k+i++I.v++6++A....7++..................................................................................................................................................................................................................................................................................................v++G..A.P++G..J.P5+K2+Y6+Li.4HqPBijzIISRhjjTIITRxjjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIITRBkjPIISRRkjTIIQRRkj3II8QhAjz1HGezHH8KRfjTLIcRRljTJIgRRmjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIgRRnjDJIcRRojTJIYRRnjzJIURRkjzLIURRAjDgIA1RC2D"
+              userWave4="1024.DRfzC3w.oIPsAPP.XAvr+aw+C5O+8OX+Yz+u7iG+DweI72A+qv+T7OI+tyOY8ae+j5+a+eE.cEveB.7.dTPlFDCBkmPsK.ZCk9.wQr+DJYwqXfxF01AUfPvHCWxinX1JH4RLwDBMTbyB5HPO2+S5BYcQ6hDlKklStDE4SknUcjUmacfWaA1khkKY.a1pnkmZnvVtsoxa6AmpwgqbkN2azcQccVm.1QjclYmY1YjcGXWp00RcTR22yAwbnHGJwEAbl61osYEa1q1gos.ZEZl8jA1XEG1IfcnWnyESaMaVffkkVQQUdNEMRkMTN9DUNwRSXvTFKAiRdkDoHM.R5cDCGgqQ9YzWFskQxYDoFAuQVcj0G8FRfjT5IkrR9tzwLQdSS7zTPIZT+K0YTscUWc01XQlVvukecwvWXBFHhI5XcTlilM+YLklkp87Z1yVBtcvat+FuvEWbKHWhxotbrLGTyQ0b3L29xwobbHmdwUKbO+Fxt4YaTwV5p0UZydl5kM.Y.HV3egZWVsU6X0lUYOkLQomSxtT2HseQPLDG.IROjnyH2HBMhDSIt3xJ9fxUknmHp9A5bXiFUdwAUznDn.w1MT5BIlfgG7YASOvHB.I.Z7ev8eH+osuZ5iX9DiOG3C48gbOy1Ko8vYOZ1am8ZZ+z1+w88c+52iF9xiOh4eh9OqOe66B+hy+k8uj+76Op+2D.pCPeAPf.8Iv4BDz.HN.uCr8.iOP0Cz5.sMfDCvo.JH.WADI.o9+n9GX+.wu35eV9Oe+F1uD8fI+Vvyi6EvtsoG04XS9Rhy527ycOZG20ZRMtQ+ryeuL6HWew9KbB.eQupnaQ2hFsWFqztxAq2k53lNFo4GZoelVmGsIPYV0kGVI1SdjjVCYgOZkiH03VLF4hoq3XJ5eh7lnlIpYh5lX9IdkhSqHaKFBivyH1Mhsiu+nFQlkjpNoBUlmk0e4dYpvlfx4Ndl8m4EJFiRKoMYJ3mpVprqpXrxbqm7pbvxZrTKK5ydNsPWqn1x0s8eqg3ROtHkqf4FZtklqi4xUtPjqp3pBtQdK31dgs2TqPzlyrbHa6v15qd4Z.sl4pknZpnVxobVJDjJnnzCJZeBdmdw43ZJWlMfIsVpVkwPoBSdej4CoDPRziO5X8MdWiVzH0LBKirxHxLVPij0H4MZniK8XLPhSjhIIqSdQkiZYSXZgl8uI.d9AnXIppjNwoSl5Ir5rqFFqSzNxsEnK77R9udKL2E2Mxdur2NuczRSsvWmp1F1sUfiw3JW9Znmu5y0N1uWh7aQ+c1qG9goeK72c+v8u4.7i.4MvkDXYA3Y.OGP9Avgv2HPSBtk.jIfYBJlfYIzRBgivfHTABXdfCGfmAYWPLE."
+              userWave5="1024.Hedjm224Od9wmiB5yhNZoij5Ts9hr+d698dNw6w7rT+X2Cb9Cwe59Ga.XR.mGnqBu2fNQXIEAfwcaXuG5IB.lTXJEzRevj9LGcCk5rbOqCT7CksQhlTRLsrSmD0VSUVUDc08XwmVTuU+bceWB60We47WP.VIf8.XP+EZeosWm3kTc4EWLsEHZsMVBd0EV0IUWLUhQU+Sf4zxLwyRylTMHUrQlUjFDQtPGGjw.E9Oc7Sd9jeOd1CZ8jUOx0Cs83gOv5Ca+7DPaETiBQ9PgUD.GALRepDmLMqSiCEJSEXUpe0WZ8MWl8U7gwGYDblgo8+Zq4FxvIwbEUGX2AVd.sG.80oe++2++8+e++2++8+e++2++8+e++2++8+e++2++8+e++mn+UgefwGg5UHdjYGIzcbbQ81vrMhZwclrjkdXY7UQbAWVeZE0SEQTb4TsKERRiZzND8dP+9iq8z6NvmyQ3LrMlUiLzTxLBIChwbOLOBySvbCLFAydvLMLOEy5wXpL8MyazfWMWZCx2fPNToip6XPOk4yv+3QPyITuCsOQnXjPGYDRwjD.JEqRBszqKg+RZvzDLM9RGtz+JojRnkDVHkwQsVDED4jPbAzO9j+NKli813CMjEiZtH0Jgfx0jjWHH3ghZ7uErMA0OrCCih.DETX.F3ek5ay8rOetvGZ6kpNxm6P42IdAfua2YtsnYa800XcvTq2zeIsbQCKza.MrO+1yV8LYOi4yt+rYP2OzvFMeRC1zXQsXUmm0bdswXWe1lrcUb+W2g5MteCL32Ftlhe13ZPdrjqR4BVNtkub42VdekuQ4PRN2i6u31G9vfi12i2cMbGl1mgMRVa.0iFcHOOHyJmr9FWAwcD7E9VvtoeKxzVZrC5JYq5DpAU5PhZ0m9wIuYVwkJR4GRZ8iw13rK1chwfHrF1Ug3PXPCpmfiGHeAVTf8DHYApaf8H35BR7fFS36Exygqh3NJh9hv13iORXjJN4mU96knmoEbVjmyAZmh5KoTaZ2nRsp3xZgtlCrRGaSyhJshWa91t9s2hKW4pctvnaW5Jlt9n674BXtmiaJ3hzsDY6G0x8r8IKAwN2qM2ZEr5jp6g5mlxKoWKp7fBwm1zYYaJZlveYTVhLkYMoARJMj+93yNVfii035L1Ii6wHhLJLiqzHwMxniD93pPBfjDNIMUBwkUjIQalYmR.pqhlVoBgZMqBjqeEKjzB8sZraa9VbvcTLcHa7xO7LSRuW0XhcnaGo2nE9Hj6q44jNjqOb6O+NswC27BTuZ1i585hun4Cl9yquW6C596ter6S39zrew5ii9Pl+y3i+8NbOE12P87OO4xib7qBeju6m6y0NcrW35mpN3o+R5ZhdHnC"
+              userWave6="1024.QE9ciWc4ogdLqmh6OEumzOA9pteW+mx.Ibv8J3tCpKQ4VjsFB6glhzkIEnhisPOLxPCQ2bhNXyCU+fYPhNDbEIvQVgDaIUjRfqjOKI1RLsz+J8mRLmD6HI9QwZjWE09PjIjw.kwOh0io6ndNzfCh1rNMiMy7wDJLw8hYtPXKOyhRrb+JYuR7q.DKIyxhsXnK59xIwnrLiRCr1zNNXsi68rJPLNDiFYZRWyTFPg1T9ZkEZsVW2Bl8iMxY3nVLsk.b6JGQ084cImmu6wWeA72++8+e++2++8+e++2++8+e++2++w4e.4Wr7EudDj261UKcZIW4ukUa6pVDn8UYqJl9eIUW2pUKXsaUjMEKQkwSszDaKkcR2gDRG4jQJVj+DsJQPRjqDMPQNVzSFIzQlgDtIUyRXyzmNYHTHJEnTorU.j0OaAXW+9k8gABY4XlNnAhZlu1gsAvaKAmYw0jb9KmcyI6bxN2byUub2HmNw4+aD5VyrssZvh1Sls6X1CVAdwtVudkTTsMTM0jqIMfQRIzm97tNIcCryrBL8xxZoniItLxRfPYGMrwsXboEsRw9RLXDEAgPOjmCp2.kMTWCL1P0M7jC26PxODLDaGAESXFEMWAQWXLFNow0arUGV6wPfvYHdKh.jTPIhWhklzwIychkmP3I4bRslTeI4SRvivjHaBxqdjHGqnwkW7LEWGQrNH1BsefUDHJ.Vy+83mP8RDuEsuQ5mTtOgaV2il89UKmzL7ryKyKxYWLJCyJvn4qW7Bot9iqp2Ros6VKH0JLsdRKszFPsAVKM1Rwsdf6S4JptSvKm8pyumCrmBqEwVXLyGiWxUrbmL2fye87iPqYz7IcLSa6zIP8IT+.0.O8MSWmz5EsQPmsy1zbWKCUxSbLpDKgvU8Kc7RWtZYaJyd9qXxpPopdoUJZRel.mciIxU9rj2+XQMxqhgg3MFJDgDJ3+.F.fA.X..F.fA.X..F.fA.X..F.fjAHvA9zfOTH+FFQhKsnoMtAjmJYQU99kgpYUcZ.ntJZRkN8oEoJmrRsqmC6zxRIsmXah2hKtxlqc5JvtUsKb6J0t8qqb5Fat9hql2hjsKSKJyFVr58JdsB1p1jJ.mFLo.JZPfpfmfu4wYZ7kfWoFTlmj.DYsOpoiy1n.MpHiNwnSL1HiKzXxMZriB.IeQNyjkTITWFalEwoBetenTTZTn55pk75rxJks8mqq8FVvQT7sHCEyU+7PSWo0FmszbW62rI97jmz4ok9TqWP6849tu6K7GFuExyl7KJOcxuh7wFeBweC7+7dItyN6Zt9LpyK55btrkmB4kJdJg262i4sHc6+16qsGZqV1iiciXqF17g8wXuT1Kn8Aa+C2z1cYeC"
+              userWave7="1024.Ob+W626+hPfgHDNCqDgWUDWFc0QGgnJI8exDqTdKwAyrxjJMPYCp2.KNokyz4DeNFmCU4.JNtdCg1bRMdNi6w.BL63RQrbjJHgRTlbFITJh2fvzGj2gqb35FoqAYZPhFpngdZTwF8uQLcDqG7ABjhnNIFdRXpXWK+ByMzf8MZtyc+b1PicjXK40SOMEKW4tVO5kAh4TYfglMqsbab.2Hx08bIUGY1wxcidGx2w4cgb2V1sTc3OGYxUIbR5FXrYfZKdl8jAkXd9k5bsiVXdUBUYoTDAEGNIBScojzHU3Q5YDsEcSQCTjFEsWQmXTGGoERamjmK4YSV+TPRoMUZd0dZUWWAB1kiEqYEmVyrE7aYJ2S0o8c0nWV7Ejem+2++8+e++2++8+e++2++8+e++Ww+kfeEvGu4IyctQWcw0ja7q1hmA.YiAFubEQVrUE0QAkSmqTnGQHQVFT297EOeniH3nlM7Sy0y3uLvIiKxXiLFJyFyL+LHTyU1n8MLliY6DVO28CnAU8PNXzPH0lRExjfN0ETPHEkSINU1WkxVo0UgdUmWszUoZ0sUMGUeKE+PwrSQwDjIsnQHMDy+3AOBgSPz.BLnuRnm.0H.7gsZvmEXIgTNDmB6ZvMCr9+ZyOC5K38AUuRyGZ7EAONuim6E3d2s2e6h49Aum96BD+RxC77YU+C2uM91pOl7mm+RAfFBr7.dUvxFr.BZj.7InnBhqP8J7qB+nPbIXEBsavMEPy.mCvT9q29hg+C0aX7L2d5oOd4AG9hciT1+SctP2GySg7PDSEvLx6739XskIqduRMq1o5Xn5oooTZAjJynvJZehhon9KJqi1IoMW5MmVMpgpJkrdpqSCKDydUsfdK44lAu63KP.KhvaOLYEiqwQeLqHSTxVl7mI6UxRi79GiswqU7sC6avC9qB8lktzcaXzdRrL25Up9ro8LJpedAmSh4HU5bjb5HkKxKhZXXsCFYfA.X..F.fA.X..F.fA.X..F.fA.X..F.ffEXaCVagyf32JRaioBYtSxskInYNcVFnDNJjlBXpNwJ8ttVrsNqs0B3sIjKS5dzt3u6W7tGuLwK06RwtOnqx3ZzsKV6ly9Wr57Z0rdkpFepJktnnv+YXcdtlGhoRVdCkTIooPVyiE3nFMhGiivXGLdFiDzn7MNyiCConRxLk+bo8YxNmb.ZfiNwoMq5otpordZKq5tquEKbvFepxx4LFRWY0gi88aOs2tEdwiac4cddFoij5prNvqu.6Lv9wq+y52odco2C5UadQkG43AGd2eyd21us.ZeA1+X8eT+szmEMGPWvyn3bhM2RyXzbSM6byd5buOuRznKM8Tuz0pmMzbe+2ZMd8lKr545d0xC"
+              userWave8="1024.FTwyX.EG+8AVhTMIyahqnXfJ4qRhqf6JItB.qPhJ4iRhmrcI3Ox5gv6G20gIaTMFNZQWTrjDiAwqNbSCDvPGKfnBKovZJjtBJu.CM.qCzBQES7bEdigNbz8G+Nx0mvAKCBS.0zXNa3SnBIwQjsjiOQ3T9b0rZwcWvBlJiYTY.bFUnITZJmF6osZZJjVCnsqYZTVLikPXq5UHbUWVxZk3SAQTH4DkK8ORSZTVDskPfBzK+.gOH0i17nLOYzSx8fsOEATCBwBQcZTVIkESV9jAS8oUYo0IdAfXXWFoooUauCGVzs3c+oWK8s3e++2++8+e++2++8+e++2++8+e++2++UneMvGS40jcXL2suQCaahV8j4TXx1kJZIrUCN0cPcZSarj1HotQQUjDDIyPvJziB0rPoMzWDsZQIcTLIw0RC2DWP4wT9W07XE+Vt6U2gYKYrcV8okDac4lJvcZbOKmlyY.cNPGrystb+FmKvoialuVNociYnK1TeE3V6c0RS0uSYpDKFAbPg0SF4LOM4CyLsvZJrYBdifMHP5QobnwFumwIY7KF0hABYHaFtpg8aDXGI8QQgj1HsVhAnjlJKyRHu.VL9MSb03xMthi44DsNmsyn6D3N8qSE5fLNWbi.03nL89RkrrQJXURTgDQGghwBTj0CVpPyEjP.Vweu2mz7E7t9pGy4vNdffiZ2qrcCYK005W8AUeG0HQ8cTCP0bW8AWeG1knMBbWg2DAdhhqM4qbtboO5501dmuGU7IKO+yON83Ues0WY8WTuMzSu7PEOSuuN6wntHma73i.dPbmB1jOceO+uxyYb4A+UutiKmzJGr7wpvn1TojHJTeZMm5pI.Yx5k9ZoMVRgkUYo8VN+kEko4Z9Lm26YUg98nKZpSo5Aqv6JtwxFsAbaa4d5tk1KX+FMvvGLtBaxv1L74BeivnD7t+NeuTu6X4dpsmNqZvpOqgk5oklcn.3IJZxkklJYDOh5h0gXfENsf0AX..F.fA.X..F.fA.X..F.fA.X..F.f6E37CRqgylH5LlDjLOYYWtvlx5oShZco9jZerl3qYIa4zZxsVj6q559tNyKT8FWuyz6k7F5tUo6s39rsjRaOxR5qhyp.p1voOP5DgNhmJsIkXtfk2N4nQZ8iY4XLMZFi5un7KBEiUzXPNJ8iFGoFTdrkImIFc1Jn+QZgnVKqCD6Y0Rct.46mBetwMr7AO2rzTYMkYiH2n7Mbgu03lSdDlms4Ac9Rmiu4NYtTku.4+I9sfuq2Wx8TZq+0WVcMS+Mzf5rfL+nxRirTGqgwuTblD2Ew+Q7.Eudw3bb5H6uxx07PPu1zkaMpZ+p2uK9WmW+5mBuZ0Oi926upCLDB2xv9P."
+              noiseSamplePath="E:\Sample\Aron\Selection\Battery 4\Aron 01 Samples\Kick Cypress 1.wav"
+              presetName="FX Riser Noise" macroName1="Filter" macroName2="Bend"
+              macroName3="Reso" macroName4="Noise" macroName5="Pan" macroName6="Dirt"
+              macroName7="Detune" macroName8="Size" lfoShape2="0.0000:0.0000;0.0030:0.0000:-0.229;1.0000:1.0000;">
+  <PARAM id="arp_gate" value="0.800000011920929"/>
+  <PARAM id="arp_octaves" value="1.0"/>
+  <PARAM id="arp_on" value="0.0"/>
+  <PARAM id="arp_pattern" value="1.0"/>
+  <PARAM id="arp_rate" value="4.0"/>
+  <PARAM id="arp_swing" value="0.0"/>
+  <PARAM id="bend_down" value="2.0"/>
+  <PARAM id="bend_up" value="2.0"/>
+  <PARAM id="env1_aCurve" value="0.0"/>
+  <PARAM id="env1_attack" value="0.04301838576793671"/>
+  <PARAM id="env1_dCurve" value="0.0"/>
+  <PARAM id="env1_decay" value="0.554435670375824"/>
+  <PARAM id="env1_rCurve" value="0.0"/>
+  <PARAM id="env1_release" value="0.3313134610652924"/>
+  <PARAM id="env1_sustain" value="0.1879999935626984"/>
+  <PARAM id="env2_aCurve" value="0.0"/>
+  <PARAM id="env2_attack" value="1.640048384666443"/>
+  <PARAM id="env2_dCurve" value="0.0"/>
+  <PARAM id="env2_decay" value="3.489496231079102"/>
+  <PARAM id="env2_rCurve" value="0.0"/>
+  <PARAM id="env2_release" value="1.109386324882507"/>
+  <PARAM id="env2_sustain" value="0.3564125895500183"/>
+  <PARAM id="env3_aCurve" value="0.0"/>
+  <PARAM id="env3_attack" value="0.00200000056065619"/>
+  <PARAM id="env3_dCurve" value="0.0"/>
+  <PARAM id="env3_decay" value="0.1610308736562729"/>
+  <PARAM id="env3_rCurve" value="0.0"/>
+  <PARAM id="env3_release" value="0.1999998986721039"/>
+  <PARAM id="env3_sustain" value="0.0"/>
+  <PARAM id="env4_aCurve" value="0.0"/>
+  <PARAM id="env4_attack" value="2.55333399772644"/>
+  <PARAM id="env4_dCurve" value="0.0"/>
+  <PARAM id="env4_decay" value="0.4435484707355499"/>
+  <PARAM id="env4_rCurve" value="0.0"/>
+  <PARAM id="env4_release" value="0.5366562008857727"/>
+  <PARAM id="env4_sustain" value="0.6000000238418579"/>
+  <PARAM id="filt1_cutoff" value="20.0"/>
+  <PARAM id="filt1_drive" value="0.671999990940094"/>
+  <PARAM id="filt1_keytrack" value="0.0"/>
+  <PARAM id="filt1_mix" value="1.0"/>
+  <PARAM id="filt1_on" value="1.0"/>
+  <PARAM id="filt1_res" value="0.2520000040531158"/>
+  <PARAM id="filt1_type" value="2.0"/>
+  <PARAM id="filt2_cutoff" value="385.5943298339844"/>
+  <PARAM id="filt2_drive" value="0.6159999966621399"/>
+  <PARAM id="filt2_keytrack" value="0.0"/>
+  <PARAM id="filt2_mix" value="0.617155134677887"/>
+  <PARAM id="filt2_on" value="1.0"/>
+  <PARAM id="filt2_res" value="0.7663310766220093"/>
+  <PARAM id="filt2_type" value="13.0"/>
+  <PARAM id="fx10_mix" value="1.0"/>
+  <PARAM id="fx10_order" value="9.0"/>
+  <PARAM id="fx10_p0" value="-9.936000823974609"/>
+  <PARAM id="fx10_p1" value="4.0"/>
+  <PARAM id="fx10_p2" value="10.0"/>
+  <PARAM id="fx10_p3" value="119.9999923706055"/>
+  <PARAM id="fx10_p4" value="6.0"/>
+  <PARAM id="fx10_p5" value="2.160000801086426"/>
+  <PARAM id="fx1_mix" value="0.4000000059604645"/>
+  <PARAM id="fx1_on" value="1.0"/>
+  <PARAM id="fx1_order" value="8.0"/>
+  <PARAM id="fx1_p0" value="0.7099999785423279"/>
+  <PARAM id="fx1_p1" value="0.449999988079071"/>
+  <PARAM id="fx1_p2" value="1.0"/>
+  <PARAM id="fx1_p3" value="16.87668037414551"/>
+  <PARAM id="fx1_p4" value="20.0"/>
+  <PARAM id="fx1_p5" value="13000.0"/>
+  <PARAM id="fx1_p6" value="0.0"/>
+  <PARAM id="fx2_mix" value="0.300000011920929"/>
+  <PARAM id="fx2_on" value="0.0"/>
+  <PARAM id="fx2_order" value="7.0"/>
+  <PARAM id="fx2_p0" value="250.0000152587891"/>
+  <PARAM id="fx2_p1" value="374.9999694824219"/>
+  <PARAM id="fx2_p2" value="0.4000000059604645"/>
+  <PARAM id="fx2_p3" value="8000.0009765625"/>
+  <PARAM id="fx2_p4" value="0.0"/>
+  <PARAM id="fx3_mix" value="0.5"/>
+  <PARAM id="fx3_on" value="0.0"/>
+  <PARAM id="fx3_order" value="6.0"/>
+  <PARAM id="fx3_p0" value="0.800000011920929"/>
+  <PARAM id="fx3_p1" value="0.5"/>
+  <PARAM id="fx3_p2" value="12.0"/>
+  <PARAM id="fx3_p3" value="0.1000000014901161"/>
+  <PARAM id="fx3_p4" value="0.800000011920929"/>
+  <PARAM id="fx4_mix" value="0.5"/>
+  <PARAM id="fx4_on" value="0.0"/>
+  <PARAM id="fx4_order" value="5.0"/>
+  <PARAM id="fx4_p0" value="0.3000000417232513"/>
+  <PARAM id="fx4_p1" value="0.699999988079071"/>
+  <PARAM id="fx4_p2" value="2.0"/>
+  <PARAM id="fx4_p3" value="0.5000000596046448"/>
+  <PARAM id="fx4_p4" value="0.5"/>
+  <PARAM id="fx5_mix" value="0.5"/>
+  <PARAM id="fx5_on" value="0.0"/>
+  <PARAM id="fx5_order" value="4.0"/>
+  <PARAM id="fx5_p0" value="0.4999999701976776"/>
+  <PARAM id="fx5_p1" value="0.699999988079071"/>
+  <PARAM id="fx5_p2" value="999.9999389648438"/>
+  <PARAM id="fx5_p3" value="0.4000000059604645"/>
+  <PARAM id="fx5_p4" value="1.0"/>
+  <PARAM id="fx6_mix" value="1.0"/>
+  <PARAM id="fx6_on" value="1.0"/>
+  <PARAM id="fx6_order" value="0.0"/>
+  <PARAM id="fx6_p0" value="6.0"/>
+  <PARAM id="fx6_p1" value="22.60000038146973"/>
+  <PARAM id="fx6_p2" value="13000.0"/>
+  <PARAM id="fx6_p3" value="7.512338638305664"/>
+  <PARAM id="fx6_p4" value="-5.0"/>
+  <PARAM id="fx7_mix" value="1.0"/>
+  <PARAM id="fx7_on" value="1.0"/>
+  <PARAM id="fx7_order" value="1.0"/>
+  <PARAM id="fx7_p0" value="119.9999923706055"/>
+  <PARAM id="fx7_p1" value="0.0"/>
+  <PARAM id="fx7_p2" value="1000.000061035156"/>
+  <PARAM id="fx7_p3" value="0.0"/>
+  <PARAM id="fx7_p4" value="0.9999999403953552"/>
+  <PARAM id="fx7_p5" value="6000.0"/>
+  <PARAM id="fx7_p6" value="0.0"/>
+  <PARAM id="fx7_p7" value="52.0064582824707"/>
+  <PARAM id="fx7_p8" value="20000.0"/>
+  <PARAM id="fx8_mix" value="0.4800000190734863"/>
+  <PARAM id="fx8_on" value="1.0"/>
+  <PARAM id="fx8_order" value="3.0"/>
+  <PARAM id="fx8_p0" value="0.550000011920929"/>
+  <PARAM id="fx8_p1" value="0.4000000059604645"/>
+  <PARAM id="fx8_p2" value="0.0"/>
+  <PARAM id="fx8_p3" value="0.0"/>
+  <PARAM id="fx8_p4" value="0.0"/>
+  <PARAM id="fx8_p5" value="1.0"/>
+  <PARAM id="fx9_mix" value="1.0"/>
+  <PARAM id="fx9_on" value="1.0"/>
+  <PARAM id="fx9_order" value="9.0"/>
+  <PARAM id="fx9_p0" value="-1.0"/>
+  <PARAM id="fx9_p1" value="60.0000114440918"/>
+  <PARAM id="fx9_p2" value="0.0"/>
+  <PARAM id="glide_curve" value="0.0"/>
+  <PARAM id="glide_time" value="0.0"/>
+  <PARAM id="lfo1_depth" value="1.0"/>
+  <PARAM id="lfo1_div" value="7.0"/>
+  <PARAM id="lfo1_phase" value="0.0"/>
+  <PARAM id="lfo1_rate" value="1.0"/>
+  <PARAM id="lfo1_shape" value="0.0"/>
+  <PARAM id="lfo1_smooth" value="0.0"/>
+  <PARAM id="lfo1_sync" value="0.0"/>
+  <PARAM id="lfo2_depth" value="1.0"/>
+  <PARAM id="lfo2_div" value="5.0"/>
+  <PARAM id="lfo2_phase" value="0.0"/>
+  <PARAM id="lfo2_rate" value="0.3941716551780701"/>
+  <PARAM id="lfo2_shape" value="0.0"/>
+  <PARAM id="lfo2_smooth" value="0.3240000009536743"/>
+  <PARAM id="lfo2_sync" value="1.0"/>
+  <PARAM id="lfo3_depth" value="1.0"/>
+  <PARAM id="lfo3_div" value="7.0"/>
+  <PARAM id="lfo3_phase" value="0.0"/>
+  <PARAM id="lfo3_rate" value="13.99222469329834"/>
+  <PARAM id="lfo3_shape" value="4.0"/>
+  <PARAM id="lfo3_smooth" value="0.3499999940395355"/>
+  <PARAM id="lfo3_sync" value="0.0"/>
+  <PARAM id="lfo4_depth" value="1.0"/>
+  <PARAM id="lfo4_div" value="7.0"/>
+  <PARAM id="lfo4_phase" value="0.0"/>
+  <PARAM id="lfo4_rate" value="0.402772843837738"/>
+  <PARAM id="lfo4_shape" value="1.0"/>
+  <PARAM id="lfo4_smooth" value="0.0"/>
+  <PARAM id="lfo4_sync" value="0.0"/>
+  <PARAM id="lfo5_depth" value="1.0"/>
+  <PARAM id="lfo5_div" value="7.0"/>
+  <PARAM id="lfo5_phase" value="0.0"/>
+  <PARAM id="lfo5_rate" value="1.0"/>
+  <PARAM id="lfo5_shape" value="0.0"/>
+  <PARAM id="lfo5_smooth" value="0.0"/>
+  <PARAM id="lfo5_sync" value="0.0"/>
+  <PARAM id="lfo6_depth" value="1.0"/>
+  <PARAM id="lfo6_div" value="7.0"/>
+  <PARAM id="lfo6_phase" value="0.0"/>
+  <PARAM id="lfo6_rate" value="1.0"/>
+  <PARAM id="lfo6_shape" value="0.0"/>
+  <PARAM id="lfo6_smooth" value="0.0"/>
+  <PARAM id="lfo6_sync" value="0.0"/>
+  <PARAM id="macro_1" value="0.09351138770580292"/>
+  <PARAM id="macro_2" value="0.0"/>
+  <PARAM id="macro_3" value="0.1884252727031708"/>
+  <PARAM id="macro_4" value="0.0"/>
+  <PARAM id="macro_5" value="0.0"/>
+  <PARAM id="macro_6" value="0.1894541680812836"/>
+  <PARAM id="macro_7" value="0.08699443191289902"/>
+  <PARAM id="macro_8" value="0.2063098549842834"/>
+  <PARAM id="master_gain_db" value="5.736000061035156"/>
+  <PARAM id="master_tune" value="440.0"/>
+  <PARAM id="max_voices" value="16.0"/>
+  <PARAM id="micro_0" value="0.0"/>
+  <PARAM id="micro_1" value="0.0"/>
+  <PARAM id="micro_10" value="0.0"/>
+  <PARAM id="micro_11" value="0.0"/>
+  <PARAM id="micro_2" value="0.0"/>
+  <PARAM id="micro_3" value="0.0"/>
+  <PARAM id="micro_4" value="0.0"/>
+  <PARAM id="micro_5" value="0.0"/>
+  <PARAM id="micro_6" value="0.0"/>
+  <PARAM id="micro_7" value="0.0"/>
+  <PARAM id="micro_8" value="0.0"/>
+  <PARAM id="micro_9" value="0.0"/>
+  <PARAM id="mod10_amount" value="0.2589644193649292"/>
+  <PARAM id="mod10_curve" value="0.0"/>
+  <PARAM id="mod10_dst" value="19.0"/>
+  <PARAM id="mod10_src" value="3.0"/>
+  <PARAM id="mod10_type" value="1.0"/>
+  <PARAM id="mod11_amount" value="0.3851029872894287"/>
+  <PARAM id="mod11_curve" value="0.0"/>
+  <PARAM id="mod11_dst" value="6.0"/>
+  <PARAM id="mod11_src" value="10.0"/>
+  <PARAM id="mod11_type" value="0.0"/>
+  <PARAM id="mod12_amount" value="0.2999999523162842"/>
+  <PARAM id="mod12_curve" value="0.0"/>
+  <PARAM id="mod12_dst" value="6.0"/>
+  <PARAM id="mod12_src" value="13.0"/>
+  <PARAM id="mod12_type" value="0.0"/>
+  <PARAM id="mod13_amount" value="0.2134575843811035"/>
+  <PARAM id="mod13_curve" value="0.0"/>
+  <PARAM id="mod13_dst" value="75.0"/>
+  <PARAM id="mod13_src" value="9.0"/>
+  <PARAM id="mod13_type" value="0.0"/>
+  <PARAM id="mod14_amount" value="0.0"/>
+  <PARAM id="mod14_curve" value="0.0"/>
+  <PARAM id="mod14_dst" value="0.0"/>
+  <PARAM id="mod14_src" value="0.0"/>
+  <PARAM id="mod14_type" value="0.0"/>
+  <PARAM id="mod15_amount" value="0.6758263111114502"/>
+  <PARAM id="mod15_curve" value="0.0"/>
+  <PARAM id="mod15_dst" value="6.0"/>
+  <PARAM id="mod15_src" value="17.0"/>
+  <PARAM id="mod15_type" value="0.0"/>
+  <PARAM id="mod16_amount" value="0.0"/>
+  <PARAM id="mod16_curve" value="0.0"/>
+  <PARAM id="mod16_dst" value="0.0"/>
+  <PARAM id="mod16_src" value="0.0"/>
+  <PARAM id="mod16_type" value="0.0"/>
+  <PARAM id="mod17_amount" value="0.0"/>
+  <PARAM id="mod17_curve" value="0.0"/>
+  <PARAM id="mod17_dst" value="0.0"/>
+  <PARAM id="mod17_src" value="0.0"/>
+  <PARAM id="mod17_type" value="0.0"/>
+  <PARAM id="mod18_amount" value="0.6610171794891357"/>
+  <PARAM id="mod18_curve" value="0.0"/>
+  <PARAM id="mod18_dst" value="8.0"/>
+  <PARAM id="mod18_src" value="20.0"/>
+  <PARAM id="mod18_type" value="0.0"/>
+  <PARAM id="mod19_amount" value="-0.6618044376373291"/>
+  <PARAM id="mod19_curve" value="0.0"/>
+  <PARAM id="mod19_dst" value="75.0"/>
+  <PARAM id="mod19_src" value="21.0"/>
+  <PARAM id="mod19_type" value="0.0"/>
+  <PARAM id="mod1_amount" value="0.2928303480148315"/>
+  <PARAM id="mod1_curve" value="0.0"/>
+  <PARAM id="mod1_dst" value="36.0"/>
+  <PARAM id="mod1_src" value="10.0"/>
+  <PARAM id="mod1_type" value="0.0"/>
+  <PARAM id="mod20_amount" value="-0.5332763195037842"/>
+  <PARAM id="mod20_curve" value="0.0"/>
+  <PARAM id="mod20_dst" value="5.0"/>
+  <PARAM id="mod20_src" value="22.0"/>
+  <PARAM id="mod20_type" value="0.0"/>
+  <PARAM id="mod21_amount" value="0.557778000831604"/>
+  <PARAM id="mod21_curve" value="0.0"/>
+  <PARAM id="mod21_dst" value="46.0"/>
+  <PARAM id="mod21_src" value="23.0"/>
+  <PARAM id="mod21_type" value="0.0"/>
+  <PARAM id="mod22_amount" value="0.0"/>
+  <PARAM id="mod22_curve" value="0.0"/>
+  <PARAM id="mod22_dst" value="0.0"/>
+  <PARAM id="mod22_src" value="0.0"/>
+  <PARAM id="mod22_type" value="1.0"/>
+  <PARAM id="mod23_amount" value="0.0"/>
+  <PARAM id="mod23_curve" value="0.0"/>
+  <PARAM id="mod23_dst" value="0.0"/>
+  <PARAM id="mod23_src" value="0.0"/>
+  <PARAM id="mod23_type" value="1.0"/>
+  <PARAM id="mod24_amount" value="0.0"/>
+  <PARAM id="mod24_curve" value="0.0"/>
+  <PARAM id="mod24_dst" value="0.0"/>
+  <PARAM id="mod24_src" value="0.0"/>
+  <PARAM id="mod24_type" value="1.0"/>
+  <PARAM id="mod2_amount" value="0.9760022163391113"/>
+  <PARAM id="mod2_curve" value="0.0"/>
+  <PARAM id="mod2_dst" value="32.0"/>
+  <PARAM id="mod2_src" value="2.0"/>
+  <PARAM id="mod2_type" value="0.0"/>
+  <PARAM id="mod3_amount" value="0.9999998807907104"/>
+  <PARAM id="mod3_curve" value="0.0"/>
+  <PARAM id="mod3_dst" value="27.0"/>
+  <PARAM id="mod3_src" value="3.0"/>
+  <PARAM id="mod3_type" value="0.0"/>
+  <PARAM id="mod4_amount" value="0.2474126815795898"/>
+  <PARAM id="mod4_curve" value="0.0"/>
+  <PARAM id="mod4_dst" value="7.0"/>
+  <PARAM id="mod4_src" value="2.0"/>
+  <PARAM id="mod4_type" value="0.0"/>
+  <PARAM id="mod5_amount" value="-0.8141623139381409"/>
+  <PARAM id="mod5_curve" value="0.0"/>
+  <PARAM id="mod5_dst" value="3.0"/>
+  <PARAM id="mod5_src" value="8.0"/>
+  <PARAM id="mod5_type" value="0.0"/>
+  <PARAM id="mod6_amount" value="0.4125761985778809"/>
+  <PARAM id="mod6_curve" value="0.0"/>
+  <PARAM id="mod6_dst" value="34.0"/>
+  <PARAM id="mod6_src" value="9.0"/>
+  <PARAM id="mod6_type" value="0.0"/>
+  <PARAM id="mod7_amount" value="0.5374248027801514"/>
+  <PARAM id="mod7_curve" value="0.0"/>
+  <PARAM id="mod7_dst" value="3.0"/>
+  <PARAM id="mod7_src" value="2.0"/>
+  <PARAM id="mod7_type" value="1.0"/>
+  <PARAM id="mod8_amount" value="0.0"/>
+  <PARAM id="mod8_curve" value="0.0"/>
+  <PARAM id="mod8_dst" value="0.0"/>
+  <PARAM id="mod8_src" value="0.0"/>
+  <PARAM id="mod8_type" value="1.0"/>
+  <PARAM id="mod9_amount" value="-0.1000001430511475"/>
+  <PARAM id="mod9_curve" value="0.0"/>
+  <PARAM id="mod9_dst" value="11.0"/>
+  <PARAM id="mod9_src" value="4.0"/>
+  <PARAM id="mod9_type" value="1.0"/>
+  <PARAM id="noise_cutoff" value="5000.00048828125"/>
+  <PARAM id="noise_fine" value="0.0"/>
+  <PARAM id="noise_hp" value="1.0"/>
+  <PARAM id="noise_level" value="0.0"/>
+  <PARAM id="noise_loop" value="1.0"/>
+  <PARAM id="noise_lp" value="1.0"/>
+  <PARAM id="noise_on" value="1.0"/>
+  <PARAM id="noise_pan" value="0.3039109706878662"/>
+  <PARAM id="noise_pitch" value="0.0"/>
+  <PARAM id="noise_type" value="0.0"/>
+  <PARAM id="octave_shift" value="0.0"/>
+  <PARAM id="oscA_detune" value="0.647232711315155"/>
+  <PARAM id="oscA_fine" value="-1.938995361328125"/>
+  <PARAM id="oscA_level" value="0.0"/>
+  <PARAM id="oscA_on" value="1.0"/>
+  <PARAM id="oscA_pan" value="0.0"/>
+  <PARAM id="oscA_phase" value="0.0"/>
+  <PARAM id="oscA_pitch" value="-34.0"/>
+  <PARAM id="oscA_position" value="0.4221622943878174"/>
+  <PARAM id="oscA_spread" value="0.3700000047683716"/>
+  <PARAM id="oscA_unison" value="14.0"/>
+  <PARAM id="oscA_warp" value="1.0"/>
+  <PARAM id="oscA_warpMode" value="0.0"/>
+  <PARAM id="oscA_warpSrc" value="1.0"/>
+  <PARAM id="oscA_wavetable" value="16.0"/>
+  <PARAM id="oscB_detune" value="0.1512327343225479"/>
+  <PARAM id="oscB_fine" value="-0.1350173950195312"/>
+  <PARAM id="oscB_level" value="0.1000000014901161"/>
+  <PARAM id="oscB_on" value="0.0"/>
+  <PARAM id="oscB_pan" value="0.0"/>
+  <PARAM id="oscB_phase" value="0.0"/>
+  <PARAM id="oscB_pitch" value="12.0"/>
+  <PARAM id="oscB_position" value="0.8153184652328491"/>
+  <PARAM id="oscB_spread" value="0.3499999940395355"/>
+  <PARAM id="oscB_unison" value="1.0"/>
+  <PARAM id="oscB_warp" value="0.0"/>
+  <PARAM id="oscB_warpMode" value="0.0"/>
+  <PARAM id="oscB_warpSrc" value="0.0"/>
+  <PARAM id="oscB_wavetable" value="66.0"/>
+  <PARAM id="oscC_detune" value="0.1512327343225479"/>
+  <PARAM id="oscC_fine" value="7.128181457519531"/>
+  <PARAM id="oscC_level" value="0.3228347301483154"/>
+  <PARAM id="oscC_on" value="0.0"/>
+  <PARAM id="oscC_pan" value="0.0"/>
+  <PARAM id="oscC_phase" value="0.0"/>
+  <PARAM id="oscC_pitch" value="-12.0"/>
+  <PARAM id="oscC_position" value="0.6077638268470764"/>
+  <PARAM id="oscC_spread" value="0.3499999940395355"/>
+  <PARAM id="oscC_unison" value="1.0"/>
+  <PARAM id="oscC_warp" value="0.0"/>
+  <PARAM id="oscC_warpMode" value="0.0"/>
+  <PARAM id="oscC_warpSrc" value="0.0"/>
+  <PARAM id="oscC_wavetable" value="67.0"/>
+  <PARAM id="play_mode" value="0.0"/>
+  <PARAM id="route_noise" value="1.0"/>
+  <PARAM id="route_oscA" value="1.0"/>
+  <PARAM id="route_oscB" value="3.0"/>
+  <PARAM id="route_oscC" value="2.0"/>
+  <PARAM id="route_sub" value="1.0"/>
+  <PARAM id="sub_level" value="0.0"/>
+  <PARAM id="sub_octave" value="-1.0"/>
+  <PARAM id="sub_on" value="0.0"/>
+  <PARAM id="sub_pan" value="0.0"/>
+  <PARAM id="sub_wave" value="0.0"/>
+  <PARAM id="fx2_p5" value="0.0"/>
+  <PARAM id="fx2_p6" value="7.0"/>
+  <PARAM id="fx2_p7" value="8.0"/>
+  <PARAM id="lfo1_mode" value="1.0"/>
+  <PARAM id="lfo2_mode" value="2.0"/>
+  <PARAM id="lfo3_mode" value="1.0"/>
+  <PARAM id="lfo4_mode" value="1.0"/>
+  <PARAM id="lfo5_mode" value="1.0"/>
+  <PARAM id="lfo6_mode" value="1.0"/>
+  <PARAM id="fx11_mix" value="1.0"/>
+  <PARAM id="fx11_on" value="0.0"/>
+  <PARAM id="fx11_order" value="10.0"/>
+  <PARAM id="fx11_p0" value="1.0"/>
+  <PARAM id="fx11_p1" value="1999.999877929688"/>
+  <PARAM id="fx11_p2" value="0.25"/>
+  <PARAM id="fx11_p3" value="0.0"/>
+  <PARAM id="fx12_mix" value="1.0"/>
+  <PARAM id="fx12_on" value="0.0"/>
+  <PARAM id="fx12_order" value="11.0"/>
+  <PARAM id="fx12_p0" value="0.6000000238418579"/>
+  <PARAM id="fx12_p1" value="0.5"/>
+  <PARAM id="fx12_p2" value="2.0"/>
+  <PARAM id="fx12_p3" value="0.800000011920929"/>
+  <PARAM id="fx12_p4" value="0.6000000238418579"/>
+  <PARAM id="fx12_p5" value="0.5"/>
+  <PARAM id="fx12_p6" value="0.5"/>
+  <PARAM id="fx1_p7" value="12.0"/>
+  <PARAM id="fx2_p8" value="20.0"/>
+  <PARAM id="fx2_p9" value="20000.0"/>
+  <PARAM id="fx9_p3" value="0.0"/>
+  <PARAM id="fx9_p4" value="0.0"/>
+  <PARAM id="fx9_p5" value="0.0"/>
+  <PARAM id="fx9_p6" value="1.0"/>
+  <PARAM id="fx20_p7" value="-18.0"/>
+  <PARAM id="fx20_p8" value="4.0"/>
+  <PARAM id="fx20_p9" value="10.0"/>
+  <PARAM id="fx20_p10" value="119.9999923706055"/>
+  <PARAM id="fx20_p11" value="6.0"/>
+  <PARAM id="fx20_p12" value="0.0"/>
+  <PARAM id="fx20_p6" value="1.0"/>
+  <PARAM id="fx20_mix" value="1.0"/>
+  <PARAM id="fx20_order" value="2.0"/>
+  <PARAM id="fx20_on" value="0.0"/>
+  <PARAM id="fx20_added" value="0.0"/>
+  <PARAM id="fx10_added"/>
+  <PARAM id="fx10_on"/>
+  <PARAM id="fx11_added" value="0.0"/>
+  <PARAM id="fx12_added"/>
+  <PARAM id="fx13_added"/>
+  <PARAM id="fx13_mix"/>
+  <PARAM id="fx13_on"/>
+  <PARAM id="fx13_order"/>
+  <PARAM id="fx13_p0"/>
+  <PARAM id="fx13_p1"/>
+  <PARAM id="fx13_p2"/>
+  <PARAM id="fx13_p3"/>
+  <PARAM id="fx13_p4"/>
+  <PARAM id="fx13_p5"/>
+  <PARAM id="fx13_p6"/>
+  <PARAM id="fx13_p7"/>
+  <PARAM id="fx14_added"/>
+  <PARAM id="fx14_mix"/>
+  <PARAM id="fx14_on"/>
+  <PARAM id="fx14_order"/>
+  <PARAM id="fx14_p0"/>
+  <PARAM id="fx14_p1"/>
+  <PARAM id="fx14_p2"/>
+  <PARAM id="fx14_p3"/>
+  <PARAM id="fx14_p4"/>
+  <PARAM id="fx14_p5"/>
+  <PARAM id="fx14_p6"/>
+  <PARAM id="fx14_p7"/>
+  <PARAM id="fx14_p8"/>
+  <PARAM id="fx14_p9"/>
+  <PARAM id="fx15_added"/>
+  <PARAM id="fx15_mix"/>
+  <PARAM id="fx15_on"/>
+  <PARAM id="fx15_order"/>
+  <PARAM id="fx15_p0"/>
+  <PARAM id="fx15_p1"/>
+  <PARAM id="fx15_p2"/>
+  <PARAM id="fx15_p3"/>
+  <PARAM id="fx15_p4"/>
+  <PARAM id="fx16_added"/>
+  <PARAM id="fx16_mix"/>
+  <PARAM id="fx16_on"/>
+  <PARAM id="fx16_order"/>
+  <PARAM id="fx16_p0"/>
+  <PARAM id="fx16_p1"/>
+  <PARAM id="fx16_p2"/>
+  <PARAM id="fx16_p3"/>
+  <PARAM id="fx16_p4"/>
+  <PARAM id="fx17_added"/>
+  <PARAM id="fx17_mix"/>
+  <PARAM id="fx17_on"/>
+  <PARAM id="fx17_order"/>
+  <PARAM id="fx17_p0"/>
+  <PARAM id="fx17_p1"/>
+  <PARAM id="fx17_p2"/>
+  <PARAM id="fx17_p3"/>
+  <PARAM id="fx17_p4"/>
+  <PARAM id="fx18_added"/>
+  <PARAM id="fx18_mix"/>
+  <PARAM id="fx18_on"/>
+  <PARAM id="fx18_order"/>
+  <PARAM id="fx18_p0"/>
+  <PARAM id="fx18_p1"/>
+  <PARAM id="fx18_p2"/>
+  <PARAM id="fx18_p3"/>
+  <PARAM id="fx18_p4"/>
+  <PARAM id="fx19_added"/>
+  <PARAM id="fx19_mix"/>
+  <PARAM id="fx19_on"/>
+  <PARAM id="fx19_order"/>
+  <PARAM id="fx19_p0"/>
+  <PARAM id="fx19_p1"/>
+  <PARAM id="fx19_p2"/>
+  <PARAM id="fx19_p3"/>
+  <PARAM id="fx19_p4"/>
+  <PARAM id="fx19_p5"/>
+  <PARAM id="fx19_p6"/>
+  <PARAM id="fx19_p7"/>
+  <PARAM id="fx19_p8"/>
+  <PARAM id="fx1_added" value="1.0"/>
+  <PARAM id="fx20_p0"/>
+  <PARAM id="fx20_p1"/>
+  <PARAM id="fx20_p2"/>
+  <PARAM id="fx20_p3"/>
+  <PARAM id="fx20_p4"/>
+  <PARAM id="fx20_p5"/>
+  <PARAM id="fx21_added"/>
+  <PARAM id="fx21_mix"/>
+  <PARAM id="fx21_on"/>
+  <PARAM id="fx21_order"/>
+  <PARAM id="fx21_p0"/>
+  <PARAM id="fx21_p1"/>
+  <PARAM id="fx21_p2"/>
+  <PARAM id="fx21_p3"/>
+  <PARAM id="fx21_p4"/>
+  <PARAM id="fx21_p5"/>
+  <PARAM id="fx21_p6"/>
+  <PARAM id="fx22_added"/>
+  <PARAM id="fx22_mix"/>
+  <PARAM id="fx22_on"/>
+  <PARAM id="fx22_order"/>
+  <PARAM id="fx23_added"/>
+  <PARAM id="fx23_mix"/>
+  <PARAM id="fx23_on"/>
+  <PARAM id="fx23_order"/>
+  <PARAM id="fx23_p0"/>
+  <PARAM id="fx23_p1"/>
+  <PARAM id="fx23_p2"/>
+  <PARAM id="fx23_p3"/>
+  <PARAM id="fx24_added"/>
+  <PARAM id="fx24_mix"/>
+  <PARAM id="fx24_on"/>
+  <PARAM id="fx24_order"/>
+  <PARAM id="fx24_p0"/>
+  <PARAM id="fx24_p1"/>
+  <PARAM id="fx24_p2"/>
+  <PARAM id="fx24_p3"/>
+  <PARAM id="fx24_p4"/>
+  <PARAM id="fx24_p5"/>
+  <PARAM id="fx24_p6"/>
+  <PARAM id="fx25_added"/>
+  <PARAM id="fx25_mix"/>
+  <PARAM id="fx25_on"/>
+  <PARAM id="fx25_order"/>
+  <PARAM id="fx25_p0"/>
+  <PARAM id="fx25_p1"/>
+  <PARAM id="fx25_p2"/>
+  <PARAM id="fx25_p3"/>
+  <PARAM id="fx25_p4"/>
+  <PARAM id="fx25_p5"/>
+  <PARAM id="fx25_p6"/>
+  <PARAM id="fx25_p7"/>
+  <PARAM id="fx26_added"/>
+  <PARAM id="fx26_mix"/>
+  <PARAM id="fx26_on"/>
+  <PARAM id="fx26_order"/>
+  <PARAM id="fx26_p0"/>
+  <PARAM id="fx26_p1"/>
+  <PARAM id="fx26_p2"/>
+  <PARAM id="fx26_p3"/>
+  <PARAM id="fx26_p4"/>
+  <PARAM id="fx26_p5"/>
+  <PARAM id="fx26_p6"/>
+  <PARAM id="fx26_p7"/>
+  <PARAM id="fx26_p8"/>
+  <PARAM id="fx26_p9"/>
+  <PARAM id="fx27_added"/>
+  <PARAM id="fx27_mix"/>
+  <PARAM id="fx27_on"/>
+  <PARAM id="fx27_order"/>
+  <PARAM id="fx27_p0"/>
+  <PARAM id="fx27_p1"/>
+  <PARAM id="fx27_p2"/>
+  <PARAM id="fx27_p3"/>
+  <PARAM id="fx27_p4"/>
+  <PARAM id="fx28_added"/>
+  <PARAM id="fx28_mix"/>
+  <PARAM id="fx28_on"/>
+  <PARAM id="fx28_order"/>
+  <PARAM id="fx28_p0"/>
+  <PARAM id="fx28_p1"/>
+  <PARAM id="fx28_p2"/>
+  <PARAM id="fx28_p3"/>
+  <PARAM id="fx28_p4"/>
+  <PARAM id="fx29_added"/>
+  <PARAM id="fx29_mix"/>
+  <PARAM id="fx29_on"/>
+  <PARAM id="fx29_order"/>
+  <PARAM id="fx29_p0"/>
+  <PARAM id="fx29_p1"/>
+  <PARAM id="fx29_p2"/>
+  <PARAM id="fx29_p3"/>
+  <PARAM id="fx29_p4"/>
+  <PARAM id="fx2_added"/>
+  <PARAM id="fx30_added"/>
+  <PARAM id="fx30_mix"/>
+  <PARAM id="fx30_on"/>
+  <PARAM id="fx30_order"/>
+  <PARAM id="fx30_p0"/>
+  <PARAM id="fx30_p1"/>
+  <PARAM id="fx30_p2"/>
+  <PARAM id="fx30_p3"/>
+  <PARAM id="fx30_p4"/>
+  <PARAM id="fx31_added"/>
+  <PARAM id="fx31_mix"/>
+  <PARAM id="fx31_on"/>
+  <PARAM id="fx31_order"/>
+  <PARAM id="fx31_p0"/>
+  <PARAM id="fx31_p1"/>
+  <PARAM id="fx31_p2"/>
+  <PARAM id="fx31_p3"/>
+  <PARAM id="fx31_p4"/>
+  <PARAM id="fx31_p5"/>
+  <PARAM id="fx31_p6"/>
+  <PARAM id="fx31_p7"/>
+  <PARAM id="fx31_p8"/>
+  <PARAM id="fx32_added"/>
+  <PARAM id="fx32_mix"/>
+  <PARAM id="fx32_on"/>
+  <PARAM id="fx32_order"/>
+  <PARAM id="fx32_p0"/>
+  <PARAM id="fx32_p1"/>
+  <PARAM id="fx32_p10"/>
+  <PARAM id="fx32_p11"/>
+  <PARAM id="fx32_p12"/>
+  <PARAM id="fx32_p2"/>
+  <PARAM id="fx32_p3"/>
+  <PARAM id="fx32_p4"/>
+  <PARAM id="fx32_p5"/>
+  <PARAM id="fx32_p6"/>
+  <PARAM id="fx32_p7"/>
+  <PARAM id="fx32_p8"/>
+  <PARAM id="fx32_p9"/>
+  <PARAM id="fx33_added"/>
+  <PARAM id="fx33_mix"/>
+  <PARAM id="fx33_on"/>
+  <PARAM id="fx33_order"/>
+  <PARAM id="fx33_p0"/>
+  <PARAM id="fx33_p1"/>
+  <PARAM id="fx33_p2"/>
+  <PARAM id="fx33_p3"/>
+  <PARAM id="fx33_p4"/>
+  <PARAM id="fx33_p5"/>
+  <PARAM id="fx33_p6"/>
+  <PARAM id="fx34_added"/>
+  <PARAM id="fx34_mix"/>
+  <PARAM id="fx34_on"/>
+  <PARAM id="fx34_order"/>
+  <PARAM id="fx35_added"/>
+  <PARAM id="fx35_mix"/>
+  <PARAM id="fx35_on"/>
+  <PARAM id="fx35_order"/>
+  <PARAM id="fx35_p0"/>
+  <PARAM id="fx35_p1"/>
+  <PARAM id="fx35_p2"/>
+  <PARAM id="fx35_p3"/>
+  <PARAM id="fx36_added"/>
+  <PARAM id="fx36_mix"/>
+  <PARAM id="fx36_on"/>
+  <PARAM id="fx36_order"/>
+  <PARAM id="fx36_p0"/>
+  <PARAM id="fx36_p1"/>
+  <PARAM id="fx36_p2"/>
+  <PARAM id="fx36_p3"/>
+  <PARAM id="fx36_p4"/>
+  <PARAM id="fx36_p5"/>
+  <PARAM id="fx36_p6"/>
+  <PARAM id="fx37_added"/>
+  <PARAM id="fx37_mix"/>
+  <PARAM id="fx37_on"/>
+  <PARAM id="fx37_order"/>
+  <PARAM id="fx37_p0"/>
+  <PARAM id="fx37_p1"/>
+  <PARAM id="fx37_p2"/>
+  <PARAM id="fx37_p3"/>
+  <PARAM id="fx37_p4"/>
+  <PARAM id="fx37_p5"/>
+  <PARAM id="fx37_p6"/>
+  <PARAM id="fx37_p7"/>
+  <PARAM id="fx38_added"/>
+  <PARAM id="fx38_mix"/>
+  <PARAM id="fx38_on"/>
+  <PARAM id="fx38_order"/>
+  <PARAM id="fx38_p0"/>
+  <PARAM id="fx38_p1"/>
+  <PARAM id="fx38_p2"/>
+  <PARAM id="fx38_p3"/>
+  <PARAM id="fx38_p4"/>
+  <PARAM id="fx38_p5"/>
+  <PARAM id="fx38_p6"/>
+  <PARAM id="fx38_p7"/>
+  <PARAM id="fx38_p8"/>
+  <PARAM id="fx38_p9"/>
+  <PARAM id="fx39_added"/>
+  <PARAM id="fx39_mix"/>
+  <PARAM id="fx39_on"/>
+  <PARAM id="fx39_order"/>
+  <PARAM id="fx39_p0"/>
+  <PARAM id="fx39_p1"/>
+  <PARAM id="fx39_p2"/>
+  <PARAM id="fx39_p3"/>
+  <PARAM id="fx39_p4"/>
+  <PARAM id="fx3_added"/>
+  <PARAM id="fx40_added"/>
+  <PARAM id="fx40_mix"/>
+  <PARAM id="fx40_on"/>
+  <PARAM id="fx40_order"/>
+  <PARAM id="fx40_p0"/>
+  <PARAM id="fx40_p1"/>
+  <PARAM id="fx40_p2"/>
+  <PARAM id="fx40_p3"/>
+  <PARAM id="fx40_p4"/>
+  <PARAM id="fx41_added"/>
+  <PARAM id="fx41_mix"/>
+  <PARAM id="fx41_on"/>
+  <PARAM id="fx41_order"/>
+  <PARAM id="fx41_p0"/>
+  <PARAM id="fx41_p1"/>
+  <PARAM id="fx41_p2"/>
+  <PARAM id="fx41_p3"/>
+  <PARAM id="fx41_p4"/>
+  <PARAM id="fx42_added"/>
+  <PARAM id="fx42_mix"/>
+  <PARAM id="fx42_on"/>
+  <PARAM id="fx42_order"/>
+  <PARAM id="fx42_p0"/>
+  <PARAM id="fx42_p1"/>
+  <PARAM id="fx42_p2"/>
+  <PARAM id="fx42_p3"/>
+  <PARAM id="fx42_p4"/>
+  <PARAM id="fx43_added"/>
+  <PARAM id="fx43_mix"/>
+  <PARAM id="fx43_on"/>
+  <PARAM id="fx43_order"/>
+  <PARAM id="fx43_p0"/>
+  <PARAM id="fx43_p1"/>
+  <PARAM id="fx43_p2"/>
+  <PARAM id="fx43_p3"/>
+  <PARAM id="fx43_p4"/>
+  <PARAM id="fx43_p5"/>
+  <PARAM id="fx43_p6"/>
+  <PARAM id="fx43_p7"/>
+  <PARAM id="fx43_p8"/>
+  <PARAM id="fx44_added"/>
+  <PARAM id="fx44_mix"/>
+  <PARAM id="fx44_on"/>
+  <PARAM id="fx44_order"/>
+  <PARAM id="fx44_p0"/>
+  <PARAM id="fx44_p1"/>
+  <PARAM id="fx44_p10"/>
+  <PARAM id="fx44_p11"/>
+  <PARAM id="fx44_p12"/>
+  <PARAM id="fx44_p2"/>
+  <PARAM id="fx44_p3"/>
+  <PARAM id="fx44_p4"/>
+  <PARAM id="fx44_p5"/>
+  <PARAM id="fx44_p6"/>
+  <PARAM id="fx44_p7"/>
+  <PARAM id="fx44_p8"/>
+  <PARAM id="fx44_p9"/>
+  <PARAM id="fx45_added"/>
+  <PARAM id="fx45_mix"/>
+  <PARAM id="fx45_on"/>
+  <PARAM id="fx45_order"/>
+  <PARAM id="fx45_p0"/>
+  <PARAM id="fx45_p1"/>
+  <PARAM id="fx45_p2"/>
+  <PARAM id="fx45_p3"/>
+  <PARAM id="fx45_p4"/>
+  <PARAM id="fx45_p5"/>
+  <PARAM id="fx45_p6"/>
+  <PARAM id="fx46_added"/>
+  <PARAM id="fx46_mix"/>
+  <PARAM id="fx46_on"/>
+  <PARAM id="fx46_order"/>
+  <PARAM id="fx47_added"/>
+  <PARAM id="fx47_mix"/>
+  <PARAM id="fx47_on"/>
+  <PARAM id="fx47_order"/>
+  <PARAM id="fx47_p0"/>
+  <PARAM id="fx47_p1"/>
+  <PARAM id="fx47_p2"/>
+  <PARAM id="fx47_p3"/>
+  <PARAM id="fx48_added"/>
+  <PARAM id="fx48_mix"/>
+  <PARAM id="fx48_on"/>
+  <PARAM id="fx48_order"/>
+  <PARAM id="fx48_p0"/>
+  <PARAM id="fx48_p1"/>
+  <PARAM id="fx48_p2"/>
+  <PARAM id="fx48_p3"/>
+  <PARAM id="fx48_p4"/>
+  <PARAM id="fx48_p5"/>
+  <PARAM id="fx48_p6"/>
+  <PARAM id="fx49_added"/>
+  <PARAM id="fx49_mix"/>
+  <PARAM id="fx49_on"/>
+  <PARAM id="fx49_order"/>
+  <PARAM id="fx49_p0"/>
+  <PARAM id="fx49_p1"/>
+  <PARAM id="fx49_p2"/>
+  <PARAM id="fx49_p3"/>
+  <PARAM id="fx49_p4"/>
+  <PARAM id="fx49_p5"/>
+  <PARAM id="fx49_p6"/>
+  <PARAM id="fx49_p7"/>
+  <PARAM id="fx4_added"/>
+  <PARAM id="fx50_added"/>
+  <PARAM id="fx50_mix"/>
+  <PARAM id="fx50_on"/>
+  <PARAM id="fx50_order"/>
+  <PARAM id="fx50_p0"/>
+  <PARAM id="fx50_p1"/>
+  <PARAM id="fx50_p2"/>
+  <PARAM id="fx50_p3"/>
+  <PARAM id="fx50_p4"/>
+  <PARAM id="fx50_p5"/>
+  <PARAM id="fx50_p6"/>
+  <PARAM id="fx50_p7"/>
+  <PARAM id="fx50_p8"/>
+  <PARAM id="fx50_p9"/>
+  <PARAM id="fx51_added"/>
+  <PARAM id="fx51_mix"/>
+  <PARAM id="fx51_on"/>
+  <PARAM id="fx51_order"/>
+  <PARAM id="fx51_p0"/>
+  <PARAM id="fx51_p1"/>
+  <PARAM id="fx51_p2"/>
+  <PARAM id="fx51_p3"/>
+  <PARAM id="fx51_p4"/>
+  <PARAM id="fx52_added"/>
+  <PARAM id="fx52_mix"/>
+  <PARAM id="fx52_on"/>
+  <PARAM id="fx52_order"/>
+  <PARAM id="fx52_p0"/>
+  <PARAM id="fx52_p1"/>
+  <PARAM id="fx52_p2"/>
+  <PARAM id="fx52_p3"/>
+  <PARAM id="fx52_p4"/>
+  <PARAM id="fx53_added"/>
+  <PARAM id="fx53_mix"/>
+  <PARAM id="fx53_on"/>
+  <PARAM id="fx53_order"/>
+  <PARAM id="fx53_p0"/>
+  <PARAM id="fx53_p1"/>
+  <PARAM id="fx53_p2"/>
+  <PARAM id="fx53_p3"/>
+  <PARAM id="fx53_p4"/>
+  <PARAM id="fx54_added"/>
+  <PARAM id="fx54_mix"/>
+  <PARAM id="fx54_on"/>
+  <PARAM id="fx54_order"/>
+  <PARAM id="fx54_p0"/>
+  <PARAM id="fx54_p1"/>
+  <PARAM id="fx54_p2"/>
+  <PARAM id="fx54_p3"/>
+  <PARAM id="fx54_p4"/>
+  <PARAM id="fx55_added"/>
+  <PARAM id="fx55_mix"/>
+  <PARAM id="fx55_on"/>
+  <PARAM id="fx55_order"/>
+  <PARAM id="fx55_p0"/>
+  <PARAM id="fx55_p1"/>
+  <PARAM id="fx55_p2"/>
+  <PARAM id="fx55_p3"/>
+  <PARAM id="fx55_p4"/>
+  <PARAM id="fx55_p5"/>
+  <PARAM id="fx55_p6"/>
+  <PARAM id="fx55_p7"/>
+  <PARAM id="fx55_p8"/>
+  <PARAM id="fx56_added"/>
+  <PARAM id="fx56_mix"/>
+  <PARAM id="fx56_on"/>
+  <PARAM id="fx56_order"/>
+  <PARAM id="fx56_p0"/>
+  <PARAM id="fx56_p1"/>
+  <PARAM id="fx56_p10"/>
+  <PARAM id="fx56_p11"/>
+  <PARAM id="fx56_p12"/>
+  <PARAM id="fx56_p2"/>
+  <PARAM id="fx56_p3"/>
+  <PARAM id="fx56_p4"/>
+  <PARAM id="fx56_p5"/>
+  <PARAM id="fx56_p6"/>
+  <PARAM id="fx56_p7"/>
+  <PARAM id="fx56_p8"/>
+  <PARAM id="fx56_p9"/>
+  <PARAM id="fx57_added"/>
+  <PARAM id="fx57_mix"/>
+  <PARAM id="fx57_on"/>
+  <PARAM id="fx57_order"/>
+  <PARAM id="fx57_p0"/>
+  <PARAM id="fx57_p1"/>
+  <PARAM id="fx57_p2"/>
+  <PARAM id="fx57_p3"/>
+  <PARAM id="fx57_p4"/>
+  <PARAM id="fx57_p5"/>
+  <PARAM id="fx57_p6"/>
+  <PARAM id="fx58_added"/>
+  <PARAM id="fx58_mix"/>
+  <PARAM id="fx58_on"/>
+  <PARAM id="fx58_order"/>
+  <PARAM id="fx59_added"/>
+  <PARAM id="fx59_mix"/>
+  <PARAM id="fx59_on"/>
+  <PARAM id="fx59_order"/>
+  <PARAM id="fx59_p0"/>
+  <PARAM id="fx59_p1"/>
+  <PARAM id="fx59_p2"/>
+  <PARAM id="fx59_p3"/>
+  <PARAM id="fx5_added"/>
+  <PARAM id="fx60_added"/>
+  <PARAM id="fx60_mix"/>
+  <PARAM id="fx60_on"/>
+  <PARAM id="fx60_order"/>
+  <PARAM id="fx60_p0"/>
+  <PARAM id="fx60_p1"/>
+  <PARAM id="fx60_p2"/>
+  <PARAM id="fx60_p3"/>
+  <PARAM id="fx60_p4"/>
+  <PARAM id="fx60_p5"/>
+  <PARAM id="fx60_p6"/>
+  <PARAM id="fx61_added"/>
+  <PARAM id="fx61_mix"/>
+  <PARAM id="fx61_on"/>
+  <PARAM id="fx61_order"/>
+  <PARAM id="fx61_p0"/>
+  <PARAM id="fx61_p1"/>
+  <PARAM id="fx61_p2"/>
+  <PARAM id="fx61_p3"/>
+  <PARAM id="fx61_p4"/>
+  <PARAM id="fx61_p5"/>
+  <PARAM id="fx61_p6"/>
+  <PARAM id="fx61_p7"/>
+  <PARAM id="fx62_added"/>
+  <PARAM id="fx62_mix"/>
+  <PARAM id="fx62_on"/>
+  <PARAM id="fx62_order"/>
+  <PARAM id="fx62_p0"/>
+  <PARAM id="fx62_p1"/>
+  <PARAM id="fx62_p2"/>
+  <PARAM id="fx62_p3"/>
+  <PARAM id="fx62_p4"/>
+  <PARAM id="fx62_p5"/>
+  <PARAM id="fx62_p6"/>
+  <PARAM id="fx62_p7"/>
+  <PARAM id="fx62_p8"/>
+  <PARAM id="fx62_p9"/>
+  <PARAM id="fx63_added"/>
+  <PARAM id="fx63_mix"/>
+  <PARAM id="fx63_on"/>
+  <PARAM id="fx63_order"/>
+  <PARAM id="fx63_p0"/>
+  <PARAM id="fx63_p1"/>
+  <PARAM id="fx63_p2"/>
+  <PARAM id="fx63_p3"/>
+  <PARAM id="fx63_p4"/>
+  <PARAM id="fx64_added"/>
+  <PARAM id="fx64_mix"/>
+  <PARAM id="fx64_on"/>
+  <PARAM id="fx64_order"/>
+  <PARAM id="fx64_p0"/>
+  <PARAM id="fx64_p1"/>
+  <PARAM id="fx64_p2"/>
+  <PARAM id="fx64_p3"/>
+  <PARAM id="fx64_p4"/>
+  <PARAM id="fx65_added"/>
+  <PARAM id="fx65_mix"/>
+  <PARAM id="fx65_on"/>
+  <PARAM id="fx65_order"/>
+  <PARAM id="fx65_p0"/>
+  <PARAM id="fx65_p1"/>
+  <PARAM id="fx65_p2"/>
+  <PARAM id="fx65_p3"/>
+  <PARAM id="fx65_p4"/>
+  <PARAM id="fx66_added"/>
+  <PARAM id="fx66_mix"/>
+  <PARAM id="fx66_on"/>
+  <PARAM id="fx66_order"/>
+  <PARAM id="fx66_p0"/>
+  <PARAM id="fx66_p1"/>
+  <PARAM id="fx66_p2"/>
+  <PARAM id="fx66_p3"/>
+  <PARAM id="fx66_p4"/>
+  <PARAM id="fx67_added"/>
+  <PARAM id="fx67_mix"/>
+  <PARAM id="fx67_on"/>
+  <PARAM id="fx67_order"/>
+  <PARAM id="fx67_p0"/>
+  <PARAM id="fx67_p1"/>
+  <PARAM id="fx67_p2"/>
+  <PARAM id="fx67_p3"/>
+  <PARAM id="fx67_p4"/>
+  <PARAM id="fx67_p5"/>
+  <PARAM id="fx67_p6"/>
+  <PARAM id="fx67_p7"/>
+  <PARAM id="fx67_p8"/>
+  <PARAM id="fx68_added"/>
+  <PARAM id="fx68_mix"/>
+  <PARAM id="fx68_on"/>
+  <PARAM id="fx68_order"/>
+  <PARAM id="fx68_p0"/>
+  <PARAM id="fx68_p1"/>
+  <PARAM id="fx68_p10"/>
+  <PARAM id="fx68_p11"/>
+  <PARAM id="fx68_p12"/>
+  <PARAM id="fx68_p2"/>
+  <PARAM id="fx68_p3"/>
+  <PARAM id="fx68_p4"/>
+  <PARAM id="fx68_p5"/>
+  <PARAM id="fx68_p6"/>
+  <PARAM id="fx68_p7"/>
+  <PARAM id="fx68_p8"/>
+  <PARAM id="fx68_p9"/>
+  <PARAM id="fx69_added"/>
+  <PARAM id="fx69_mix"/>
+  <PARAM id="fx69_on"/>
+  <PARAM id="fx69_order"/>
+  <PARAM id="fx69_p0"/>
+  <PARAM id="fx69_p1"/>
+  <PARAM id="fx69_p2"/>
+  <PARAM id="fx69_p3"/>
+  <PARAM id="fx69_p4"/>
+  <PARAM id="fx69_p5"/>
+  <PARAM id="fx69_p6"/>
+  <PARAM id="fx6_added" value="1.0"/>
+  <PARAM id="fx70_added"/>
+  <PARAM id="fx70_mix"/>
+  <PARAM id="fx70_on"/>
+  <PARAM id="fx70_order"/>
+  <PARAM id="fx71_added"/>
+  <PARAM id="fx71_mix"/>
+  <PARAM id="fx71_on"/>
+  <PARAM id="fx71_order"/>
+  <PARAM id="fx71_p0"/>
+  <PARAM id="fx71_p1"/>
+  <PARAM id="fx71_p2"/>
+  <PARAM id="fx71_p3"/>
+  <PARAM id="fx72_added"/>
+  <PARAM id="fx72_mix"/>
+  <PARAM id="fx72_on"/>
+  <PARAM id="fx72_order"/>
+  <PARAM id="fx72_p0"/>
+  <PARAM id="fx72_p1"/>
+  <PARAM id="fx72_p2"/>
+  <PARAM id="fx72_p3"/>
+  <PARAM id="fx72_p4"/>
+  <PARAM id="fx72_p5"/>
+  <PARAM id="fx72_p6"/>
+  <PARAM id="fx73_added"/>
+  <PARAM id="fx73_mix"/>
+  <PARAM id="fx73_on"/>
+  <PARAM id="fx73_order"/>
+  <PARAM id="fx73_p0"/>
+  <PARAM id="fx73_p1"/>
+  <PARAM id="fx73_p2"/>
+  <PARAM id="fx73_p3"/>
+  <PARAM id="fx73_p4"/>
+  <PARAM id="fx73_p5"/>
+  <PARAM id="fx73_p6"/>
+  <PARAM id="fx73_p7"/>
+  <PARAM id="fx74_added"/>
+  <PARAM id="fx74_mix"/>
+  <PARAM id="fx74_on"/>
+  <PARAM id="fx74_order"/>
+  <PARAM id="fx74_p0"/>
+  <PARAM id="fx74_p1"/>
+  <PARAM id="fx74_p2"/>
+  <PARAM id="fx74_p3"/>
+  <PARAM id="fx74_p4"/>
+  <PARAM id="fx74_p5"/>
+  <PARAM id="fx74_p6"/>
+  <PARAM id="fx74_p7"/>
+  <PARAM id="fx74_p8"/>
+  <PARAM id="fx74_p9"/>
+  <PARAM id="fx75_added"/>
+  <PARAM id="fx75_mix"/>
+  <PARAM id="fx75_on"/>
+  <PARAM id="fx75_order"/>
+  <PARAM id="fx75_p0"/>
+  <PARAM id="fx75_p1"/>
+  <PARAM id="fx75_p2"/>
+  <PARAM id="fx75_p3"/>
+  <PARAM id="fx75_p4"/>
+  <PARAM id="fx76_added"/>
+  <PARAM id="fx76_mix"/>
+  <PARAM id="fx76_on"/>
+  <PARAM id="fx76_order"/>
+  <PARAM id="fx76_p0"/>
+  <PARAM id="fx76_p1"/>
+  <PARAM id="fx76_p2"/>
+  <PARAM id="fx76_p3"/>
+  <PARAM id="fx76_p4"/>
+  <PARAM id="fx77_added"/>
+  <PARAM id="fx77_mix"/>
+  <PARAM id="fx77_on"/>
+  <PARAM id="fx77_order"/>
+  <PARAM id="fx77_p0"/>
+  <PARAM id="fx77_p1"/>
+  <PARAM id="fx77_p2"/>
+  <PARAM id="fx77_p3"/>
+  <PARAM id="fx77_p4"/>
+  <PARAM id="fx78_added"/>
+  <PARAM id="fx78_mix"/>
+  <PARAM id="fx78_on"/>
+  <PARAM id="fx78_order"/>
+  <PARAM id="fx78_p0"/>
+  <PARAM id="fx78_p1"/>
+  <PARAM id="fx78_p2"/>
+  <PARAM id="fx78_p3"/>
+  <PARAM id="fx78_p4"/>
+  <PARAM id="fx79_added"/>
+  <PARAM id="fx79_mix"/>
+  <PARAM id="fx79_on"/>
+  <PARAM id="fx79_order"/>
+  <PARAM id="fx79_p0"/>
+  <PARAM id="fx79_p1"/>
+  <PARAM id="fx79_p2"/>
+  <PARAM id="fx79_p3"/>
+  <PARAM id="fx79_p4"/>
+  <PARAM id="fx79_p5"/>
+  <PARAM id="fx79_p6"/>
+  <PARAM id="fx79_p7"/>
+  <PARAM id="fx79_p8"/>
+  <PARAM id="fx7_added" value="1.0"/>
+  <PARAM id="fx80_added"/>
+  <PARAM id="fx80_mix"/>
+  <PARAM id="fx80_on"/>
+  <PARAM id="fx80_order"/>
+  <PARAM id="fx80_p0"/>
+  <PARAM id="fx80_p1"/>
+  <PARAM id="fx80_p10"/>
+  <PARAM id="fx80_p11"/>
+  <PARAM id="fx80_p12"/>
+  <PARAM id="fx80_p2"/>
+  <PARAM id="fx80_p3"/>
+  <PARAM id="fx80_p4"/>
+  <PARAM id="fx80_p5"/>
+  <PARAM id="fx80_p6"/>
+  <PARAM id="fx80_p7"/>
+  <PARAM id="fx80_p8"/>
+  <PARAM id="fx80_p9"/>
+  <PARAM id="fx81_added"/>
+  <PARAM id="fx81_mix"/>
+  <PARAM id="fx81_on"/>
+  <PARAM id="fx81_order"/>
+  <PARAM id="fx81_p0"/>
+  <PARAM id="fx81_p1"/>
+  <PARAM id="fx81_p2"/>
+  <PARAM id="fx81_p3"/>
+  <PARAM id="fx81_p4"/>
+  <PARAM id="fx81_p5"/>
+  <PARAM id="fx81_p6"/>
+  <PARAM id="fx82_added"/>
+  <PARAM id="fx82_mix"/>
+  <PARAM id="fx82_on"/>
+  <PARAM id="fx82_order"/>
+  <PARAM id="fx83_added"/>
+  <PARAM id="fx83_mix"/>
+  <PARAM id="fx83_on"/>
+  <PARAM id="fx83_order"/>
+  <PARAM id="fx83_p0"/>
+  <PARAM id="fx83_p1"/>
+  <PARAM id="fx83_p2"/>
+  <PARAM id="fx83_p3"/>
+  <PARAM id="fx84_added"/>
+  <PARAM id="fx84_mix"/>
+  <PARAM id="fx84_on"/>
+  <PARAM id="fx84_order"/>
+  <PARAM id="fx84_p0"/>
+  <PARAM id="fx84_p1"/>
+  <PARAM id="fx84_p2"/>
+  <PARAM id="fx84_p3"/>
+  <PARAM id="fx84_p4"/>
+  <PARAM id="fx84_p5"/>
+  <PARAM id="fx84_p6"/>
+  <PARAM id="fx85_added"/>
+  <PARAM id="fx85_mix"/>
+  <PARAM id="fx85_on"/>
+  <PARAM id="fx85_order"/>
+  <PARAM id="fx85_p0"/>
+  <PARAM id="fx85_p1"/>
+  <PARAM id="fx85_p2"/>
+  <PARAM id="fx85_p3"/>
+  <PARAM id="fx85_p4"/>
+  <PARAM id="fx85_p5"/>
+  <PARAM id="fx85_p6"/>
+  <PARAM id="fx85_p7"/>
+  <PARAM id="fx86_added"/>
+  <PARAM id="fx86_mix"/>
+  <PARAM id="fx86_on"/>
+  <PARAM id="fx86_order"/>
+  <PARAM id="fx86_p0"/>
+  <PARAM id="fx86_p1"/>
+  <PARAM id="fx86_p2"/>
+  <PARAM id="fx86_p3"/>
+  <PARAM id="fx86_p4"/>
+  <PARAM id="fx86_p5"/>
+  <PARAM id="fx86_p6"/>
+  <PARAM id="fx86_p7"/>
+  <PARAM id="fx86_p8"/>
+  <PARAM id="fx86_p9"/>
+  <PARAM id="fx87_added"/>
+  <PARAM id="fx87_mix"/>
+  <PARAM id="fx87_on"/>
+  <PARAM id="fx87_order"/>
+  <PARAM id="fx87_p0"/>
+  <PARAM id="fx87_p1"/>
+  <PARAM id="fx87_p2"/>
+  <PARAM id="fx87_p3"/>
+  <PARAM id="fx87_p4"/>
+  <PARAM id="fx88_added"/>
+  <PARAM id="fx88_mix"/>
+  <PARAM id="fx88_on"/>
+  <PARAM id="fx88_order"/>
+  <PARAM id="fx88_p0"/>
+  <PARAM id="fx88_p1"/>
+  <PARAM id="fx88_p2"/>
+  <PARAM id="fx88_p3"/>
+  <PARAM id="fx88_p4"/>
+  <PARAM id="fx89_added"/>
+  <PARAM id="fx89_mix"/>
+  <PARAM id="fx89_on"/>
+  <PARAM id="fx89_order"/>
+  <PARAM id="fx89_p0"/>
+  <PARAM id="fx89_p1"/>
+  <PARAM id="fx89_p2"/>
+  <PARAM id="fx89_p3"/>
+  <PARAM id="fx89_p4"/>
+  <PARAM id="fx8_added" value="1.0"/>
+  <PARAM id="fx8_p10"/>
+  <PARAM id="fx8_p11" value="6.0"/>
+  <PARAM id="fx8_p12" value="0.0"/>
+  <PARAM id="fx8_p6" value="1.0"/>
+  <PARAM id="fx8_p7" value="-18.0"/>
+  <PARAM id="fx8_p8" value="4.0"/>
+  <PARAM id="fx8_p9" value="10.0"/>
+  <PARAM id="fx90_added"/>
+  <PARAM id="fx90_mix"/>
+  <PARAM id="fx90_on"/>
+  <PARAM id="fx90_order"/>
+  <PARAM id="fx90_p0"/>
+  <PARAM id="fx90_p1"/>
+  <PARAM id="fx90_p2"/>
+  <PARAM id="fx90_p3"/>
+  <PARAM id="fx90_p4"/>
+  <PARAM id="fx91_added"/>
+  <PARAM id="fx91_mix"/>
+  <PARAM id="fx91_on"/>
+  <PARAM id="fx91_order"/>
+  <PARAM id="fx91_p0"/>
+  <PARAM id="fx91_p1"/>
+  <PARAM id="fx91_p2"/>
+  <PARAM id="fx91_p3"/>
+  <PARAM id="fx91_p4"/>
+  <PARAM id="fx91_p5"/>
+  <PARAM id="fx91_p6"/>
+  <PARAM id="fx91_p7"/>
+  <PARAM id="fx91_p8"/>
+  <PARAM id="fx92_added"/>
+  <PARAM id="fx92_mix"/>
+  <PARAM id="fx92_on"/>
+  <PARAM id="fx92_order"/>
+  <PARAM id="fx92_p0"/>
+  <PARAM id="fx92_p1"/>
+  <PARAM id="fx92_p10"/>
+  <PARAM id="fx92_p11"/>
+  <PARAM id="fx92_p12"/>
+  <PARAM id="fx92_p2"/>
+  <PARAM id="fx92_p3"/>
+  <PARAM id="fx92_p4"/>
+  <PARAM id="fx92_p5"/>
+  <PARAM id="fx92_p6"/>
+  <PARAM id="fx92_p7"/>
+  <PARAM id="fx92_p8"/>
+  <PARAM id="fx92_p9"/>
+  <PARAM id="fx93_added"/>
+  <PARAM id="fx93_mix"/>
+  <PARAM id="fx93_on"/>
+  <PARAM id="fx93_order"/>
+  <PARAM id="fx93_p0"/>
+  <PARAM id="fx93_p1"/>
+  <PARAM id="fx93_p2"/>
+  <PARAM id="fx93_p3"/>
+  <PARAM id="fx93_p4"/>
+  <PARAM id="fx93_p5"/>
+  <PARAM id="fx93_p6"/>
+  <PARAM id="fx94_added"/>
+  <PARAM id="fx94_mix"/>
+  <PARAM id="fx94_on"/>
+  <PARAM id="fx94_order"/>
+  <PARAM id="fx95_added"/>
+  <PARAM id="fx95_mix"/>
+  <PARAM id="fx95_on"/>
+  <PARAM id="fx95_order"/>
+  <PARAM id="fx95_p0"/>
+  <PARAM id="fx95_p1"/>
+  <PARAM id="fx95_p2"/>
+  <PARAM id="fx95_p3"/>
+  <PARAM id="fx96_added"/>
+  <PARAM id="fx96_mix"/>
+  <PARAM id="fx96_on"/>
+  <PARAM id="fx96_order"/>
+  <PARAM id="fx96_p0"/>
+  <PARAM id="fx96_p1"/>
+  <PARAM id="fx96_p2"/>
+  <PARAM id="fx96_p3"/>
+  <PARAM id="fx96_p4"/>
+  <PARAM id="fx96_p5"/>
+  <PARAM id="fx96_p6"/>
+  <PARAM id="fx9_added" value="1.0"/>
+  <PARAM id="mod100_amount"/>
+  <PARAM id="mod100_curve"/>
+  <PARAM id="mod100_dst"/>
+  <PARAM id="mod100_src"/>
+  <PARAM id="mod100_type"/>
+  <PARAM id="mod101_amount"/>
+  <PARAM id="mod101_curve"/>
+  <PARAM id="mod101_dst"/>
+  <PARAM id="mod101_src"/>
+  <PARAM id="mod101_type"/>
+  <PARAM id="mod102_amount"/>
+  <PARAM id="mod102_curve"/>
+  <PARAM id="mod102_dst"/>
+  <PARAM id="mod102_src"/>
+  <PARAM id="mod102_type"/>
+  <PARAM id="mod103_amount"/>
+  <PARAM id="mod103_curve"/>
+  <PARAM id="mod103_dst"/>
+  <PARAM id="mod103_src"/>
+  <PARAM id="mod103_type"/>
+  <PARAM id="mod104_amount"/>
+  <PARAM id="mod104_curve"/>
+  <PARAM id="mod104_dst"/>
+  <PARAM id="mod104_src"/>
+  <PARAM id="mod104_type"/>
+  <PARAM id="mod105_amount"/>
+  <PARAM id="mod105_curve"/>
+  <PARAM id="mod105_dst"/>
+  <PARAM id="mod105_src"/>
+  <PARAM id="mod105_type"/>
+  <PARAM id="mod106_amount"/>
+  <PARAM id="mod106_curve"/>
+  <PARAM id="mod106_dst"/>
+  <PARAM id="mod106_src"/>
+  <PARAM id="mod106_type"/>
+  <PARAM id="mod107_amount"/>
+  <PARAM id="mod107_curve"/>
+  <PARAM id="mod107_dst"/>
+  <PARAM id="mod107_src"/>
+  <PARAM id="mod107_type"/>
+  <PARAM id="mod108_amount"/>
+  <PARAM id="mod108_curve"/>
+  <PARAM id="mod108_dst"/>
+  <PARAM id="mod108_src"/>
+  <PARAM id="mod108_type"/>
+  <PARAM id="mod109_amount"/>
+  <PARAM id="mod109_curve"/>
+  <PARAM id="mod109_dst"/>
+  <PARAM id="mod109_src"/>
+  <PARAM id="mod109_type"/>
+  <PARAM id="mod110_amount"/>
+  <PARAM id="mod110_curve"/>
+  <PARAM id="mod110_dst"/>
+  <PARAM id="mod110_src"/>
+  <PARAM id="mod110_type"/>
+  <PARAM id="mod111_amount"/>
+  <PARAM id="mod111_curve"/>
+  <PARAM id="mod111_dst"/>
+  <PARAM id="mod111_src"/>
+  <PARAM id="mod111_type"/>
+  <PARAM id="mod112_amount"/>
+  <PARAM id="mod112_curve"/>
+  <PARAM id="mod112_dst"/>
+  <PARAM id="mod112_src"/>
+  <PARAM id="mod112_type"/>
+  <PARAM id="mod113_amount"/>
+  <PARAM id="mod113_curve"/>
+  <PARAM id="mod113_dst"/>
+  <PARAM id="mod113_src"/>
+  <PARAM id="mod113_type"/>
+  <PARAM id="mod114_amount"/>
+  <PARAM id="mod114_curve"/>
+  <PARAM id="mod114_dst"/>
+  <PARAM id="mod114_src"/>
+  <PARAM id="mod114_type"/>
+  <PARAM id="mod115_amount"/>
+  <PARAM id="mod115_curve"/>
+  <PARAM id="mod115_dst"/>
+  <PARAM id="mod115_src"/>
+  <PARAM id="mod115_type"/>
+  <PARAM id="mod116_amount"/>
+  <PARAM id="mod116_curve"/>
+  <PARAM id="mod116_dst"/>
+  <PARAM id="mod116_src"/>
+  <PARAM id="mod116_type"/>
+  <PARAM id="mod117_amount"/>
+  <PARAM id="mod117_curve"/>
+  <PARAM id="mod117_dst"/>
+  <PARAM id="mod117_src"/>
+  <PARAM id="mod117_type"/>
+  <PARAM id="mod118_amount"/>
+  <PARAM id="mod118_curve"/>
+  <PARAM id="mod118_dst"/>
+  <PARAM id="mod118_src"/>
+  <PARAM id="mod118_type"/>
+  <PARAM id="mod119_amount"/>
+  <PARAM id="mod119_curve"/>
+  <PARAM id="mod119_dst"/>
+  <PARAM id="mod119_src"/>
+  <PARAM id="mod119_type"/>
+  <PARAM id="mod120_amount"/>
+  <PARAM id="mod120_curve"/>
+  <PARAM id="mod120_dst"/>
+  <PARAM id="mod120_src"/>
+  <PARAM id="mod120_type"/>
+  <PARAM id="mod121_amount"/>
+  <PARAM id="mod121_curve"/>
+  <PARAM id="mod121_dst"/>
+  <PARAM id="mod121_src"/>
+  <PARAM id="mod121_type"/>
+  <PARAM id="mod122_amount"/>
+  <PARAM id="mod122_curve"/>
+  <PARAM id="mod122_dst"/>
+  <PARAM id="mod122_src"/>
+  <PARAM id="mod122_type"/>
+  <PARAM id="mod123_amount"/>
+  <PARAM id="mod123_curve"/>
+  <PARAM id="mod123_dst"/>
+  <PARAM id="mod123_src"/>
+  <PARAM id="mod123_type"/>
+  <PARAM id="mod124_amount"/>
+  <PARAM id="mod124_curve"/>
+  <PARAM id="mod124_dst"/>
+  <PARAM id="mod124_src"/>
+  <PARAM id="mod124_type"/>
+  <PARAM id="mod125_amount"/>
+  <PARAM id="mod125_curve"/>
+  <PARAM id="mod125_dst"/>
+  <PARAM id="mod125_src"/>
+  <PARAM id="mod125_type"/>
+  <PARAM id="mod126_amount"/>
+  <PARAM id="mod126_curve"/>
+  <PARAM id="mod126_dst"/>
+  <PARAM id="mod126_src"/>
+  <PARAM id="mod126_type"/>
+  <PARAM id="mod127_amount"/>
+  <PARAM id="mod127_curve"/>
+  <PARAM id="mod127_dst"/>
+  <PARAM id="mod127_src"/>
+  <PARAM id="mod127_type"/>
+  <PARAM id="mod128_amount"/>
+  <PARAM id="mod128_curve"/>
+  <PARAM id="mod128_dst"/>
+  <PARAM id="mod128_src"/>
+  <PARAM id="mod128_type"/>
+  <PARAM id="mod25_amount"/>
+  <PARAM id="mod25_curve"/>
+  <PARAM id="mod25_dst"/>
+  <PARAM id="mod25_src"/>
+  <PARAM id="mod25_type"/>
+  <PARAM id="mod26_amount"/>
+  <PARAM id="mod26_curve"/>
+  <PARAM id="mod26_dst"/>
+  <PARAM id="mod26_src"/>
+  <PARAM id="mod26_type"/>
+  <PARAM id="mod27_amount"/>
+  <PARAM id="mod27_curve"/>
+  <PARAM id="mod27_dst"/>
+  <PARAM id="mod27_src"/>
+  <PARAM id="mod27_type"/>
+  <PARAM id="mod28_amount"/>
+  <PARAM id="mod28_curve"/>
+  <PARAM id="mod28_dst"/>
+  <PARAM id="mod28_src"/>
+  <PARAM id="mod28_type"/>
+  <PARAM id="mod29_amount"/>
+  <PARAM id="mod29_curve"/>
+  <PARAM id="mod29_dst"/>
+  <PARAM id="mod29_src"/>
+  <PARAM id="mod29_type"/>
+  <PARAM id="mod30_amount"/>
+  <PARAM id="mod30_curve"/>
+  <PARAM id="mod30_dst"/>
+  <PARAM id="mod30_src"/>
+  <PARAM id="mod30_type"/>
+  <PARAM id="mod31_amount"/>
+  <PARAM id="mod31_curve"/>
+  <PARAM id="mod31_dst"/>
+  <PARAM id="mod31_src"/>
+  <PARAM id="mod31_type"/>
+  <PARAM id="mod32_amount"/>
+  <PARAM id="mod32_curve"/>
+  <PARAM id="mod32_dst"/>
+  <PARAM id="mod32_src"/>
+  <PARAM id="mod32_type"/>
+  <PARAM id="mod33_amount"/>
+  <PARAM id="mod33_curve"/>
+  <PARAM id="mod33_dst"/>
+  <PARAM id="mod33_src"/>
+  <PARAM id="mod33_type"/>
+  <PARAM id="mod34_amount"/>
+  <PARAM id="mod34_curve"/>
+  <PARAM id="mod34_dst"/>
+  <PARAM id="mod34_src"/>
+  <PARAM id="mod34_type"/>
+  <PARAM id="mod35_amount"/>
+  <PARAM id="mod35_curve"/>
+  <PARAM id="mod35_dst"/>
+  <PARAM id="mod35_src"/>
+  <PARAM id="mod35_type"/>
+  <PARAM id="mod36_amount"/>
+  <PARAM id="mod36_curve"/>
+  <PARAM id="mod36_dst"/>
+  <PARAM id="mod36_src"/>
+  <PARAM id="mod36_type"/>
+  <PARAM id="mod37_amount"/>
+  <PARAM id="mod37_curve"/>
+  <PARAM id="mod37_dst"/>
+  <PARAM id="mod37_src"/>
+  <PARAM id="mod37_type"/>
+  <PARAM id="mod38_amount"/>
+  <PARAM id="mod38_curve"/>
+  <PARAM id="mod38_dst"/>
+  <PARAM id="mod38_src"/>
+  <PARAM id="mod38_type"/>
+  <PARAM id="mod39_amount"/>
+  <PARAM id="mod39_curve"/>
+  <PARAM id="mod39_dst"/>
+  <PARAM id="mod39_src"/>
+  <PARAM id="mod39_type"/>
+  <PARAM id="mod40_amount"/>
+  <PARAM id="mod40_curve"/>
+  <PARAM id="mod40_dst"/>
+  <PARAM id="mod40_src"/>
+  <PARAM id="mod40_type"/>
+  <PARAM id="mod41_amount"/>
+  <PARAM id="mod41_curve"/>
+  <PARAM id="mod41_dst"/>
+  <PARAM id="mod41_src"/>
+  <PARAM id="mod41_type"/>
+  <PARAM id="mod42_amount"/>
+  <PARAM id="mod42_curve"/>
+  <PARAM id="mod42_dst"/>
+  <PARAM id="mod42_src"/>
+  <PARAM id="mod42_type"/>
+  <PARAM id="mod43_amount"/>
+  <PARAM id="mod43_curve"/>
+  <PARAM id="mod43_dst"/>
+  <PARAM id="mod43_src"/>
+  <PARAM id="mod43_type"/>
+  <PARAM id="mod44_amount"/>
+  <PARAM id="mod44_curve"/>
+  <PARAM id="mod44_dst"/>
+  <PARAM id="mod44_src"/>
+  <PARAM id="mod44_type"/>
+  <PARAM id="mod45_amount"/>
+  <PARAM id="mod45_curve"/>
+  <PARAM id="mod45_dst"/>
+  <PARAM id="mod45_src"/>
+  <PARAM id="mod45_type"/>
+  <PARAM id="mod46_amount"/>
+  <PARAM id="mod46_curve"/>
+  <PARAM id="mod46_dst"/>
+  <PARAM id="mod46_src"/>
+  <PARAM id="mod46_type"/>
+  <PARAM id="mod47_amount"/>
+  <PARAM id="mod47_curve"/>
+  <PARAM id="mod47_dst"/>
+  <PARAM id="mod47_src"/>
+  <PARAM id="mod47_type"/>
+  <PARAM id="mod48_amount"/>
+  <PARAM id="mod48_curve"/>
+  <PARAM id="mod48_dst"/>
+  <PARAM id="mod48_src"/>
+  <PARAM id="mod48_type"/>
+  <PARAM id="mod49_amount"/>
+  <PARAM id="mod49_curve"/>
+  <PARAM id="mod49_dst"/>
+  <PARAM id="mod49_src"/>
+  <PARAM id="mod49_type"/>
+  <PARAM id="mod50_amount"/>
+  <PARAM id="mod50_curve"/>
+  <PARAM id="mod50_dst"/>
+  <PARAM id="mod50_src"/>
+  <PARAM id="mod50_type"/>
+  <PARAM id="mod51_amount"/>
+  <PARAM id="mod51_curve"/>
+  <PARAM id="mod51_dst"/>
+  <PARAM id="mod51_src"/>
+  <PARAM id="mod51_type"/>
+  <PARAM id="mod52_amount"/>
+  <PARAM id="mod52_curve"/>
+  <PARAM id="mod52_dst"/>
+  <PARAM id="mod52_src"/>
+  <PARAM id="mod52_type"/>
+  <PARAM id="mod53_amount"/>
+  <PARAM id="mod53_curve"/>
+  <PARAM id="mod53_dst"/>
+  <PARAM id="mod53_src"/>
+  <PARAM id="mod53_type"/>
+  <PARAM id="mod54_amount"/>
+  <PARAM id="mod54_curve"/>
+  <PARAM id="mod54_dst"/>
+  <PARAM id="mod54_src"/>
+  <PARAM id="mod54_type"/>
+  <PARAM id="mod55_amount"/>
+  <PARAM id="mod55_curve"/>
+  <PARAM id="mod55_dst"/>
+  <PARAM id="mod55_src"/>
+  <PARAM id="mod55_type"/>
+  <PARAM id="mod56_amount"/>
+  <PARAM id="mod56_curve"/>
+  <PARAM id="mod56_dst"/>
+  <PARAM id="mod56_src"/>
+  <PARAM id="mod56_type"/>
+  <PARAM id="mod57_amount"/>
+  <PARAM id="mod57_curve"/>
+  <PARAM id="mod57_dst"/>
+  <PARAM id="mod57_src"/>
+  <PARAM id="mod57_type"/>
+  <PARAM id="mod58_amount"/>
+  <PARAM id="mod58_curve"/>
+  <PARAM id="mod58_dst"/>
+  <PARAM id="mod58_src"/>
+  <PARAM id="mod58_type"/>
+  <PARAM id="mod59_amount"/>
+  <PARAM id="mod59_curve"/>
+  <PARAM id="mod59_dst"/>
+  <PARAM id="mod59_src"/>
+  <PARAM id="mod59_type"/>
+  <PARAM id="mod60_amount"/>
+  <PARAM id="mod60_curve"/>
+  <PARAM id="mod60_dst"/>
+  <PARAM id="mod60_src"/>
+  <PARAM id="mod60_type"/>
+  <PARAM id="mod61_amount"/>
+  <PARAM id="mod61_curve"/>
+  <PARAM id="mod61_dst"/>
+  <PARAM id="mod61_src"/>
+  <PARAM id="mod61_type"/>
+  <PARAM id="mod62_amount"/>
+  <PARAM id="mod62_curve"/>
+  <PARAM id="mod62_dst"/>
+  <PARAM id="mod62_src"/>
+  <PARAM id="mod62_type"/>
+  <PARAM id="mod63_amount"/>
+  <PARAM id="mod63_curve"/>
+  <PARAM id="mod63_dst"/>
+  <PARAM id="mod63_src"/>
+  <PARAM id="mod63_type"/>
+  <PARAM id="mod64_amount"/>
+  <PARAM id="mod64_curve"/>
+  <PARAM id="mod64_dst"/>
+  <PARAM id="mod64_src"/>
+  <PARAM id="mod64_type"/>
+  <PARAM id="mod65_amount"/>
+  <PARAM id="mod65_curve"/>
+  <PARAM id="mod65_dst"/>
+  <PARAM id="mod65_src"/>
+  <PARAM id="mod65_type"/>
+  <PARAM id="mod66_amount"/>
+  <PARAM id="mod66_curve"/>
+  <PARAM id="mod66_dst"/>
+  <PARAM id="mod66_src"/>
+  <PARAM id="mod66_type"/>
+  <PARAM id="mod67_amount"/>
+  <PARAM id="mod67_curve"/>
+  <PARAM id="mod67_dst"/>
+  <PARAM id="mod67_src"/>
+  <PARAM id="mod67_type"/>
+  <PARAM id="mod68_amount"/>
+  <PARAM id="mod68_curve"/>
+  <PARAM id="mod68_dst"/>
+  <PARAM id="mod68_src"/>
+  <PARAM id="mod68_type"/>
+  <PARAM id="mod69_amount"/>
+  <PARAM id="mod69_curve"/>
+  <PARAM id="mod69_dst"/>
+  <PARAM id="mod69_src"/>
+  <PARAM id="mod69_type"/>
+  <PARAM id="mod70_amount"/>
+  <PARAM id="mod70_curve"/>
+  <PARAM id="mod70_dst"/>
+  <PARAM id="mod70_src"/>
+  <PARAM id="mod70_type"/>
+  <PARAM id="mod71_amount"/>
+  <PARAM id="mod71_curve"/>
+  <PARAM id="mod71_dst"/>
+  <PARAM id="mod71_src"/>
+  <PARAM id="mod71_type"/>
+  <PARAM id="mod72_amount"/>
+  <PARAM id="mod72_curve"/>
+  <PARAM id="mod72_dst"/>
+  <PARAM id="mod72_src"/>
+  <PARAM id="mod72_type"/>
+  <PARAM id="mod73_amount"/>
+  <PARAM id="mod73_curve"/>
+  <PARAM id="mod73_dst"/>
+  <PARAM id="mod73_src"/>
+  <PARAM id="mod73_type"/>
+  <PARAM id="mod74_amount"/>
+  <PARAM id="mod74_curve"/>
+  <PARAM id="mod74_dst"/>
+  <PARAM id="mod74_src"/>
+  <PARAM id="mod74_type"/>
+  <PARAM id="mod75_amount"/>
+  <PARAM id="mod75_curve"/>
+  <PARAM id="mod75_dst"/>
+  <PARAM id="mod75_src"/>
+  <PARAM id="mod75_type"/>
+  <PARAM id="mod76_amount"/>
+  <PARAM id="mod76_curve"/>
+  <PARAM id="mod76_dst"/>
+  <PARAM id="mod76_src"/>
+  <PARAM id="mod76_type"/>
+  <PARAM id="mod77_amount"/>
+  <PARAM id="mod77_curve"/>
+  <PARAM id="mod77_dst"/>
+  <PARAM id="mod77_src"/>
+  <PARAM id="mod77_type"/>
+  <PARAM id="mod78_amount"/>
+  <PARAM id="mod78_curve"/>
+  <PARAM id="mod78_dst"/>
+  <PARAM id="mod78_src"/>
+  <PARAM id="mod78_type"/>
+  <PARAM id="mod79_amount"/>
+  <PARAM id="mod79_curve"/>
+  <PARAM id="mod79_dst"/>
+  <PARAM id="mod79_src"/>
+  <PARAM id="mod79_type"/>
+  <PARAM id="mod80_amount"/>
+  <PARAM id="mod80_curve"/>
+  <PARAM id="mod80_dst"/>
+  <PARAM id="mod80_src"/>
+  <PARAM id="mod80_type"/>
+  <PARAM id="mod81_amount"/>
+  <PARAM id="mod81_curve"/>
+  <PARAM id="mod81_dst"/>
+  <PARAM id="mod81_src"/>
+  <PARAM id="mod81_type"/>
+  <PARAM id="mod82_amount"/>
+  <PARAM id="mod82_curve"/>
+  <PARAM id="mod82_dst"/>
+  <PARAM id="mod82_src"/>
+  <PARAM id="mod82_type"/>
+  <PARAM id="mod83_amount"/>
+  <PARAM id="mod83_curve"/>
+  <PARAM id="mod83_dst"/>
+  <PARAM id="mod83_src"/>
+  <PARAM id="mod83_type"/>
+  <PARAM id="mod84_amount"/>
+  <PARAM id="mod84_curve"/>
+  <PARAM id="mod84_dst"/>
+  <PARAM id="mod84_src"/>
+  <PARAM id="mod84_type"/>
+  <PARAM id="mod85_amount"/>
+  <PARAM id="mod85_curve"/>
+  <PARAM id="mod85_dst"/>
+  <PARAM id="mod85_src"/>
+  <PARAM id="mod85_type"/>
+  <PARAM id="mod86_amount"/>
+  <PARAM id="mod86_curve"/>
+  <PARAM id="mod86_dst"/>
+  <PARAM id="mod86_src"/>
+  <PARAM id="mod86_type"/>
+  <PARAM id="mod87_amount"/>
+  <PARAM id="mod87_curve"/>
+  <PARAM id="mod87_dst"/>
+  <PARAM id="mod87_src"/>
+  <PARAM id="mod87_type"/>
+  <PARAM id="mod88_amount"/>
+  <PARAM id="mod88_curve"/>
+  <PARAM id="mod88_dst"/>
+  <PARAM id="mod88_src"/>
+  <PARAM id="mod88_type"/>
+  <PARAM id="mod89_amount"/>
+  <PARAM id="mod89_curve"/>
+  <PARAM id="mod89_dst"/>
+  <PARAM id="mod89_src"/>
+  <PARAM id="mod89_type"/>
+  <PARAM id="mod90_amount"/>
+  <PARAM id="mod90_curve"/>
+  <PARAM id="mod90_dst"/>
+  <PARAM id="mod90_src"/>
+  <PARAM id="mod90_type"/>
+  <PARAM id="mod91_amount"/>
+  <PARAM id="mod91_curve"/>
+  <PARAM id="mod91_dst"/>
+  <PARAM id="mod91_src"/>
+  <PARAM id="mod91_type"/>
+  <PARAM id="mod92_amount"/>
+  <PARAM id="mod92_curve"/>
+  <PARAM id="mod92_dst"/>
+  <PARAM id="mod92_src"/>
+  <PARAM id="mod92_type"/>
+  <PARAM id="mod93_amount"/>
+  <PARAM id="mod93_curve"/>
+  <PARAM id="mod93_dst"/>
+  <PARAM id="mod93_src"/>
+  <PARAM id="mod93_type"/>
+  <PARAM id="mod94_amount"/>
+  <PARAM id="mod94_curve"/>
+  <PARAM id="mod94_dst"/>
+  <PARAM id="mod94_src"/>
+  <PARAM id="mod94_type"/>
+  <PARAM id="mod95_amount"/>
+  <PARAM id="mod95_curve"/>
+  <PARAM id="mod95_dst"/>
+  <PARAM id="mod95_src"/>
+  <PARAM id="mod95_type"/>
+  <PARAM id="mod96_amount"/>
+  <PARAM id="mod96_curve"/>
+  <PARAM id="mod96_dst"/>
+  <PARAM id="mod96_src"/>
+  <PARAM id="mod96_type"/>
+  <PARAM id="mod97_amount"/>
+  <PARAM id="mod97_curve"/>
+  <PARAM id="mod97_dst"/>
+  <PARAM id="mod97_src"/>
+  <PARAM id="mod97_type"/>
+  <PARAM id="mod98_amount"/>
+  <PARAM id="mod98_curve"/>
+  <PARAM id="mod98_dst"/>
+  <PARAM id="mod98_src"/>
+  <PARAM id="mod98_type"/>
+  <PARAM id="mod99_amount"/>
+  <PARAM id="mod99_curve"/>
+  <PARAM id="mod99_dst"/>
+  <PARAM id="mod99_src"/>
+  <PARAM id="mod99_type"/>
+  <PARAM id="oscA_blend"/>
+  <PARAM id="oscA_coarse"/>
+  <PARAM id="oscB_blend"/>
+  <PARAM id="oscB_coarse"/>
+  <PARAM id="oscC_blend"/>
+  <PARAM id="oscC_coarse"/>
+</NuSynthState>
